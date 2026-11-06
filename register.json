@@ -1,0 +1,232 @@
+{
+  "budget": {
+    "monthlyLimitUsd": 50,
+    "note": "Nutzer: 50 € pro Monat für Alessia (gerechnet als 50 USD, liegt sicher darunter). Gezählt werden costUsd aller Einträge im laufenden Kalendermonat (Europe/Berlin).",
+    "metricoolBlogId": 7855837
+  },
+  "test": {
+    "name": "4-Wochen-Test Alessia",
+    "from": "2026-11-06",
+    "to": "2026-12-03",
+    "details": "STRATEGIE.md"
+  },
+  "posts": [
+    {
+      "id": "P001",
+      "date": "2026-11-06",
+      "type": "photo",
+      "arm": "vorrat",
+      "scene": "Steinterrasse über dem Meer bei Sonnenuntergang, weißes Leinen-Trägerkleid",
+      "stockId": "S001",
+      "file": "posts/P001/foto.jpg",
+      "tiktok": "posts/P001/tiktok.mp4",
+      "music": "assets/music/songs/karol-g-provenza.m4a",
+      "caption": "Ciao, I'm Alessia 🤍 Italian girl, American summers. Amalfi sunsets or Miami nights?\n\n#amalfi #italiangirl #summervibes #sunset #aicreator",
+      "tiktokTitle": "Amalfi sunsets or Miami nights?",
+      "costUsd": 0,
+      "status": "sending"
+    }
+  ],
+  "stock": [
+    {
+      "id": "S001",
+      "date": "2026-11-06",
+      "file": "posts/stock/S001.jpg",
+      "scene": "Steinterrasse über dem Meer bei Sonnenuntergang, weißes Leinen-Trägerkleid",
+      "sceneTag": "terrasse-meer",
+      "arm": "lifestyle",
+      "status": "used",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/SET6 V Balkon.png), am 06.11. geprüft",
+      "costUsd": 0,
+      "usedIn": "P001"
+    },
+    {
+      "id": "S002",
+      "date": "2026-11-06",
+      "file": "posts/stock/S002.jpg",
+      "scene": "Bunte Altstadtgasse mit Bougainvillea, weißes Kleid, Blick über die Schulter",
+      "sceneTag": "gasse-bunt",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/SET4 Gasse.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S003",
+      "date": "2026-11-06",
+      "file": "posts/stock/S003.jpg",
+      "scene": "Bootsdeck an der Felsküste, weißes Hemd offen, Shorts",
+      "sceneTag": "boot",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/SET4 Boot.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S004",
+      "date": "2026-11-06",
+      "file": "posts/stock/S004.jpg",
+      "scene": "Dinner am Meer zum Sonnenuntergang, beiges Satin-Trägerkleid, Weißwein",
+      "sceneTag": "dinner-meer",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/SET4 Dinner.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S005",
+      "date": "2026-11-06",
+      "file": "posts/stock/S005.jpg",
+      "scene": "Strand bei Sonnenuntergang, weißes Off-Shoulder-Crop-Top, Bikinistreifen",
+      "sceneTag": "strand-sunset",
+      "arm": "koerper",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/SET5 Off-Shoulder Tan Lines.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S006",
+      "date": "2026-11-06",
+      "file": "posts/stock/S006.jpg",
+      "scene": "Balustrade am Meer, rückenfreies weißes Kleid, Bikinistreifen am Rücken",
+      "sceneTag": "terrasse-meer",
+      "arm": "koerper",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/SET5 Rücken Tan Lines.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S007",
+      "date": "2026-11-06",
+      "file": "posts/stock/S007.jpg",
+      "scene": "Strandbar-Holzdeck, weißes geripptes Crop-Top, Leinenhose, Wasser mit Zitrone",
+      "sceneTag": "strandbar",
+      "arm": "koerper",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/A-04.11 Reel-Start Crop Top 9_16.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S008",
+      "date": "2026-11-06",
+      "file": "posts/stock/S008.jpg",
+      "scene": "Spiegel-Selfie im Hotelzimmer, weißes Bralette, graue Jogginghose, trainierter Bauch",
+      "sceneTag": "hotel-spiegel",
+      "arm": "koerper",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/N05 noch trainierter.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S009",
+      "date": "2026-11-06",
+      "file": "posts/stock/S009.jpg",
+      "scene": "Spiegel-Selfie im Hotelzimmer, weißes Bandeau, Jeans, Bikinistreifen",
+      "sceneTag": "hotel-spiegel",
+      "arm": "koerper",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/P02 Tan Lines.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S010",
+      "date": "2026-11-06",
+      "file": "posts/stock/S010.jpg",
+      "scene": "Steingasse, schwarzes Minikleid, weiße Sneaker, Hand im Haar",
+      "sceneTag": "gasse-stein",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/N03 Ganzkörper.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S011",
+      "date": "2026-11-06",
+      "file": "posts/stock/S011.jpg",
+      "scene": "Hotelflur Spiegel-Selfie, rostrotes Minikleid, Sandalen",
+      "sceneTag": "hotel-flur",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/TL-C Kleid Ganzkörper.png), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S012",
+      "date": "2026-11-06",
+      "file": "posts/stock/S012.jpg",
+      "scene": "Selfie-Nahaufnahme am Fenster, weißes geripptes Top, Jeans",
+      "sceneTag": "selfie-fenster",
+      "arm": "gesicht",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/Static image asset (1).jpg), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S013",
+      "date": "2026-11-06",
+      "file": "posts/stock/S013.jpg",
+      "scene": "Terrasse über dem Meer, weißes Leinenkleid mit V-Ausschnitt, Hand im Haar",
+      "sceneTag": "terrasse-meer",
+      "arm": "gesicht",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/alt-7-10__ref_alessia_9_figur_kleid_ganz.jpg), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S014",
+      "date": "2026-11-06",
+      "file": "posts/stock/S014.jpg",
+      "scene": "Balustrade am Meer im Abendlicht, weißes Trägerkleid, Blick in die Kamera",
+      "sceneTag": "terrasse-meer",
+      "arm": "gesicht",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/alt-7-10__ref_alessia_10_figur_kleid_oberkoerper.jpg), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S015",
+      "date": "2026-11-06",
+      "file": "posts/stock/S015.jpg",
+      "scene": "Bunte Gasse mit Blumen, weißes Trägertop, Jeans, frontal",
+      "sceneTag": "gasse-bunt",
+      "arm": "gesicht",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/frontal-szenen__2.jpg), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S016",
+      "date": "2026-11-06",
+      "file": "posts/stock/S016.jpg",
+      "scene": "Piazza-Café mit Cappuccino und Croissant, weißes Trägertop",
+      "sceneTag": "cafe",
+      "arm": "gesicht",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/frontal-szenen__3.jpg), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S017",
+      "date": "2026-11-06",
+      "file": "posts/stock/S017.jpg",
+      "scene": "Vor weißer Wand, weißes Leinenkleid, frontal",
+      "sceneTag": "weisse-wand",
+      "arm": "gesicht",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/neue-ref__3.jpg), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S018",
+      "date": "2026-11-06",
+      "file": "posts/stock/S018.jpg",
+      "scene": "Ganzkörper vor weißer Wand, weißes Tanktop und weiße Hose, barfuß",
+      "sceneTag": "weisse-wand",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "vom Nutzer freigegeben (verwendbar/fotos/Gemini_Generated_Image_39e1nj39e1nj39e1.jpeg), am 06.11. geprüft",
+      "costUsd": 0
+    }
+  ],
+  "reelDrafts": []
+}
