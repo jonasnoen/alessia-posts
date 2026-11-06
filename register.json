@@ -24,7 +24,12 @@
       "caption": "Ciao, I'm Alessia 🤍 Italian girl, American summers. Amalfi sunsets or Miami nights?\n\n#amalfi #italiangirl #summervibes #sunset #aicreator",
       "tiktokTitle": "Amalfi sunsets or Miami nights?",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 418883518,
+        "tiktok": 418883540
+      },
+      "scheduledFor": "2026-11-06T19:30:00+01:00"
     }
   ],
   "stock": [
