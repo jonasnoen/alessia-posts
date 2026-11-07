@@ -30,6 +30,27 @@
         "tiktok": 418883540
       },
       "scheduledFor": "2026-11-06T19:30:00+01:00"
+    },
+    {
+      "id": "P002",
+      "date": "2026-11-07",
+      "type": "carousel",
+      "arm": "vorrat",
+      "scene": "Bunte Altstadtgasse mit Bougainvillea: weißes Kleid (Blick über die Schulter) + weißes Trägertop mit Jeans (frontal)",
+      "stockIds": [
+        "S002",
+        "S015"
+      ],
+      "files": [
+        "posts/P002/1.jpg",
+        "posts/P002/2.jpg"
+      ],
+      "tiktok": "posts/P002/tiktok.mp4",
+      "music": "assets/music/songs/manuel-turizo-la-bachata.m4a",
+      "caption": "Same little street, two different moods 🌸 Swipe and pick: 1 or 2?\n\n#italiangirl #amalfivibes #summeroutfit #dolcevita #aicreator",
+      "tiktokTitle": "Same street, two moods: 1 or 2? 🌸",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "stock": [
