@@ -50,7 +50,13 @@
       "caption": "Same little street, two different moods 🌸 Swipe and pick: 1 or 2?\n\n#italiangirl #amalfivibes #summeroutfit #dolcevita #aicreator",
       "tiktokTitle": "Same street, two moods: 1 or 2? 🌸",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 420110225,
+        "tiktok": 420110243
+      },
+      "scheduledFor": "2026-11-07T19:30:00+01:00",
+      "mediaCommit": "cdbe4375bcb1f93c214f62253a30e076c54fbb62"
     }
   ],
   "stock": [
@@ -73,9 +79,10 @@
       "scene": "Bunte Altstadtgasse mit Bougainvillea, weißes Kleid, Blick über die Schulter",
       "sceneTag": "gasse-bunt",
       "arm": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/SET4 Gasse.png), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedIn": "P002"
     },
     {
       "id": "S003",
@@ -216,9 +223,10 @@
       "scene": "Bunte Gasse mit Blumen, weißes Trägertop, Jeans, frontal",
       "sceneTag": "gasse-bunt",
       "arm": "gesicht",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/frontal-szenen__2.jpg), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedIn": "P002"
     },
     {
       "id": "S016",
