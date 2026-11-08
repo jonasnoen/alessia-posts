@@ -57,6 +57,26 @@
       },
       "scheduledFor": "2026-11-07T19:30:00+01:00",
       "mediaCommit": "cdbe4375bcb1f93c214f62253a30e076c54fbb62"
+    },
+    {
+      "id": "P003",
+      "date": "2026-11-08",
+      "type": "reel",
+      "arm": "gesicht",
+      "scene": "Zitronengarten unter Holzpergola (Amalfi) zur goldenen Stunde, cremefarbenes Leinenhemd, Hand durchs Haar, Blick hoch in die Kamera",
+      "sceneTag": "zitronengarten",
+      "file": "posts/P003/reel.mp4",
+      "music": "assets/music/songs/feid-atl-jacob-luna.m4a",
+      "hook": [
+        "Hold my gaze",
+        "for 5 seconds"
+      ],
+      "caption": "Golden hour in the lemon garden 🍋 Did you make it to 5 seconds?\n\n#italiangirl #amalfi #goldenhour #dolcevita #aicreator",
+      "tiktokTitle": "Hold my gaze for 5 seconds 🍋",
+      "elevenlabsFlow": "kDUm93gM6TtaDoD0IWZr",
+      "costUsd": 2.07,
+      "costNote": "3x Startbild Nano Banana Pro 2K 9:16 (je 0,5025 $) + Kling 3.0 Pro 5 s (0,56 $); Variante 1 als S019 in den Vorrat",
+      "status": "sending"
     }
   ],
   "stock": [
@@ -259,6 +279,17 @@
       "arm": "lifestyle",
       "status": "stock",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/Gemini_Generated_Image_39e1nj39e1nj39e1.jpeg), am 06.11. geprüft",
+      "costUsd": 0
+    },
+    {
+      "id": "S019",
+      "date": "2026-11-08",
+      "file": "posts/stock/S019.jpg",
+      "scene": "Zitronengarten unter Pergola zur goldenen Stunde, cremefarbenes Leinenhemd, Hand am Haar, frontal",
+      "sceneTag": "zitronengarten",
+      "arm": "gesicht",
+      "status": "stock",
+      "source": "Restvariante aus Reel-Lauf P003, am 08.11. geprüft (Gesicht, Hände, Stoff blickdicht)",
       "costUsd": 0
     }
   ],
