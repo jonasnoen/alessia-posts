@@ -142,7 +142,13 @@
       "caption": "Little black dress, white sneakers, old stone streets 🖤 Dressed up or dressed down: which one is more me?\n\n#italiangirl #littleblackdress #dolcevita #summeroutfit #aicreator",
       "tiktokTitle": "Little black dress + white sneakers: yes or no? 🖤",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 423442307,
+        "tiktok": 423442330
+      },
+      "scheduledFor": "2026-11-10T19:30:00+01:00",
+      "mediaCommit": "a2cd22995a6456f3ac775503a8665c207d766a20"
     }
   ],
   "stock": [
@@ -254,9 +260,10 @@
       "scene": "Steingasse, schwarzes Minikleid, weiße Sneaker, Hand im Haar",
       "sceneTag": "gasse-stein",
       "arm": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/N03 Ganzkörper.png), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedIn": "P004"
     },
     {
       "id": "S011",
