@@ -29,7 +29,29 @@
         "instagram": 418883518,
         "tiktok": 418883540
       },
-      "scheduledFor": "2026-11-06T19:30:00+01:00"
+      "scheduledFor": "2026-11-06T19:30:00+01:00",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-10T18:30:00+01:00",
+          "tiktok": {
+            "views": 729,
+            "likes": 51,
+            "comments": 4,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "reach": 0,
+            "views": 0,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "follows": 0
+          },
+          "note": "Stand 10.11. 18:30 (Lauf verspätet, kein exakter 48-h-Wert). Instagram meldet in Metricool überall 0 (vermutlich noch nicht synchronisiert)."
+        }
+      }
     },
     {
       "id": "P002",
@@ -56,7 +78,29 @@
         "tiktok": 420110243
       },
       "scheduledFor": "2026-11-07T19:30:00+01:00",
-      "mediaCommit": "cdbe4375bcb1f93c214f62253a30e076c54fbb62"
+      "mediaCommit": "cdbe4375bcb1f93c214f62253a30e076c54fbb62",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-10T18:30:00+01:00",
+          "tiktok": {
+            "views": 795,
+            "likes": 68,
+            "comments": 7,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "reach": 0,
+            "views": 0,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "follows": 0
+          },
+          "note": "Stand 10.11. 18:30 (Lauf verspätet, kein exakter 48-h-Wert). Instagram meldet in Metricool überall 0 (vermutlich noch nicht synchronisiert)."
+        }
+      }
     },
     {
       "id": "P003",
@@ -83,6 +127,22 @@
       },
       "scheduledFor": "2026-11-08T19:30:00+01:00",
       "mediaCommit": "38ae4a33f51cbf08fdb1c8699e50e56473eb707d"
+    },
+    {
+      "id": "P004",
+      "date": "2026-11-10",
+      "type": "photo",
+      "arm": "vorrat",
+      "scene": "Steingasse, schwarzes geripptes Minikleid, weiße Sneaker, Hand im Haar",
+      "sceneTag": "gasse-stein",
+      "stockId": "S010",
+      "file": "posts/P004/foto.jpg",
+      "tiktok": "posts/P004/tiktok.mp4",
+      "music": "assets/music/songs/rauw-alejandro-todo-de-ti.m4a",
+      "caption": "Little black dress, white sneakers, old stone streets 🖤 Dressed up or dressed down: which one is more me?\n\n#italiangirl #littleblackdress #dolcevita #summeroutfit #aicreator",
+      "tiktokTitle": "Little black dress + white sneakers: yes or no? 🖤",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "stock": [
