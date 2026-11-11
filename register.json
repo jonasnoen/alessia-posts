@@ -191,7 +191,12 @@
       "elevenlabsFlow": "c0E35V5u7cZ0mFxdLQdW",
       "costUsd": 2.08,
       "costNote": "3x Startbild Nano Banana Pro 2K 9:16 (je 0,5058 $) + Kling 3.0 Pro 5 s (0,5637 $); Varianten 1 und 3 als S020/S021 in den Vorrat",
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram+tiktok": 424716027
+      },
+      "scheduledFor": "2026-11-11T19:30:00+01:00",
+      "mediaCommit": "5a4fcbd1f29e375d35d670d68e97fc41e65b2290"
     }
   ],
   "stock": [
