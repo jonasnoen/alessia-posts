@@ -126,7 +126,30 @@
         "tiktok": 420923768
       },
       "scheduledFor": "2026-11-08T19:30:00+01:00",
-      "mediaCommit": "38ae4a33f51cbf08fdb1c8699e50e56473eb707d"
+      "mediaCommit": "38ae4a33f51cbf08fdb1c8699e50e56473eb707d",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-11T18:20:00+01:00",
+          "tiktok": {
+            "views": 791,
+            "likes": 36,
+            "comments": 5,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 149,
+            "reach": 101,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "avgWatchTimeS": 3.984,
+            "follows": null
+          },
+          "note": "Stand 11.11. 18:20 (ca. 71 h, Lauf am 10.11. hatte P003 noch nicht erfasst). Instagram-Reel-Werte erstmals vorhanden; Profilbesuche/neue Follower nicht pro Post verfügbar."
+        }
+      }
     },
     {
       "id": "P004",
@@ -149,6 +172,26 @@
       },
       "scheduledFor": "2026-11-10T19:30:00+01:00",
       "mediaCommit": "a2cd22995a6456f3ac775503a8665c207d766a20"
+    },
+    {
+      "id": "P005",
+      "date": "2026-11-11",
+      "type": "reel",
+      "arm": "lifestyle",
+      "scene": "Steintreppe im Küstendorf (pastellfarbene Häuser, Zitronenbäumchen, Meer am Ende) zur goldenen Stunde, buttergelbes Leinen-Midikleid, Blick über die Schulter, geht dann die Stufen hinunter",
+      "sceneTag": "treppe-dorf",
+      "file": "posts/P005/reel.mp4",
+      "music": "assets/music/songs/karol-g-si-antes-te-hubiera-conocido.m4a",
+      "hook": [
+        "POV: golden hour",
+        "on the way to the sea"
+      ],
+      "caption": "Every little staircase here ends at the sea 🍋💛 Would you take the stairs down with me or wait at the top?\n\n#italiangirl #amalfivibes #goldenhour #dolcevita #aicreator",
+      "tiktokTitle": "Golden hour on the way to the sea 💛",
+      "elevenlabsFlow": "c0E35V5u7cZ0mFxdLQdW",
+      "costUsd": 2.08,
+      "costNote": "3x Startbild Nano Banana Pro 2K 9:16 (je 0,5058 $) + Kling 3.0 Pro 5 s (0,5637 $); Varianten 1 und 3 als S020/S021 in den Vorrat",
+      "status": "sending"
     }
   ],
   "stock": [
@@ -363,6 +406,28 @@
       "arm": "gesicht",
       "status": "stock",
       "source": "Restvariante aus Reel-Lauf P003, am 08.11. geprüft (Gesicht, Hände, Stoff blickdicht)",
+      "costUsd": 0
+    },
+    {
+      "id": "S020",
+      "date": "2026-11-11",
+      "file": "posts/stock/S020.jpg",
+      "scene": "Steintreppe im Küstendorf, buttergelbes Leinen-Midikleid, Strohtasche, Hand an der Mauer, Blick nach oben",
+      "sceneTag": "treppe-dorf",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "Restvariante aus Reel-Lauf P005, am 11.11. geprüft (Gesicht, Hände, Stoff blickdicht)",
+      "costUsd": 0
+    },
+    {
+      "id": "S021",
+      "date": "2026-11-11",
+      "file": "posts/stock/S021.jpg",
+      "scene": "Steintreppe im Küstendorf, buttergelbes Leinen-Midikleid, Strohtasche, frontal, Blick nach oben, Meer im Hintergrund",
+      "sceneTag": "treppe-dorf",
+      "arm": "lifestyle",
+      "status": "stock",
+      "source": "Restvariante aus Reel-Lauf P005, am 11.11. geprüft (Gesicht, Hände, Stoff blickdicht)",
       "costUsd": 0
     }
   ],
