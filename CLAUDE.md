@@ -39,14 +39,15 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   Pro Bild IMMER **alle 7 Referenz-Knoten** verbinden (Nutzer 12.11.: „use all the reference pics“).
   Vorlage-Knoten mit dem Standard-Prompt: `hWVxdJ9mgRtB39CzsG9J` („VORLAGE Alessia“) – für neue Bilder einen neuen Knoten
   mit denselben Verbindungen anlegen und nur Szene/Outfit/Format im Prompt tauschen.
-- **Standard-Prompt (Wortlaut beibehalten, nur „New photo: …“ anpassen):** „Seven reference photos of the same adult woman,
-  about 27. FACE: the close-up with a strapless top in front of a beige wall, the three-quarter portrait and the selfie in bed
-  all show her face. Her face is an exact copy of those photos: same face width and shape, same strong jaw and cheekbones,
-  strong straight dark eyebrows, ice-blue eyes, many freckles on nose and cheeks, full lips, soft closed-mouth smile, long
-  straight dark brown hair with middle part, thin gold necklace, deep golden tan. Do not make the face narrower, longer or
-  softer. FIGURE: the photo in a white knit V-neck tank top in front of a white wall defines her body: copy her bust exactly
-  from that photo, a large, full, round bust, clearly fuller than average, slim waist, toned stomach. TAN LINES: the second
-  white-knit-top photo shows her pale triangle bikini tan lines; show the same tan lines. New photo: …“ + Qualitäts-Satz unten.
+- **Standard-Prompt (Wortlaut beibehalten, nur „New photo: …“ anpassen; Nutzer 12.11.: Ref 6 NUR für die Brust, alle anderen NUR fürs Gesicht):**
+  „Seven reference photos of the same adult woman, about 27. FACE ONLY: six of the photos (the close-up with a strapless top
+  in front of a beige wall, the three-quarter portrait, the full-body photo, the photo from behind on a balcony, the selfie in
+  bed and the second photo in a white knit top) are used ONLY for her face and hair: same face width and shape, same strong
+  jaw and cheekbones, strong straight dark eyebrows, ice-blue eyes, many freckles on nose and cheeks, full lips, soft
+  closed-mouth smile, long straight dark brown hair with middle part, deep golden tan. Do not make the face narrower, longer or
+  softer. BUST ONLY: the photo in a white knit V-neck tank top in front of a white wall with a gold necklace is used ONLY for
+  her bust and chest: copy the bust exactly from that photo – size, fullness and shape. Slim waist, toned stomach. New photo: …“
+  + Qualitäts-Satz unten.
 - **Oberweite (Nutzer 12.11.: „boobs are way too small“):** immer groß und voll wie Ref 6 – Ergebnisse mit kleinerer
   Oberweite verwerfen.
 - **Look wie die Referenzen:** figurbetonte weiße/helle Tops und Kleider mit Ausschnitt, Bikinistreifen sichtbar, Blick
