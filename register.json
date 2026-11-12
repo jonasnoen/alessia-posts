@@ -537,6 +537,16 @@
       "status": "stock",
       "costUsd": 5.46,
       "note": "12.11.: inkl. 2 blockierter Läufe (Streifen-Tests) und 1 blockierter Variante"
+    },
+    {
+      "id": "S025",
+      "file": "posts/stock/S025.jpg",
+      "scene": "Terrasse über Positano, weißes Leinen-Top mit tiefem V-Ausschnitt, Goldkette, Bikinistreifen, Taille aufwärts",
+      "sceneTag": "terrasse-positano",
+      "serie": "lifestyle",
+      "status": "stock",
+      "costUsd": 1.82,
+      "note": "Test tiefer Ausschnitt 12.11., 1 Variante blockiert"
     }
   ],
   "reelDrafts": []
