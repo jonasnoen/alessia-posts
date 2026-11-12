@@ -547,6 +547,26 @@
       "status": "stock",
       "costUsd": 7.28,
       "note": "Test tiefer Ausschnitt 12.11., 1 Variante blockiert; +1,82 $ für blockierten Folgeversuch (Strand-Close-up, beide blockiert); +1,82 $ zweiter blockierter Strand-Close-up; +1,82 $ Strand schwarzer Bikini, beide blockiert"
+    },
+    {
+      "id": "S026",
+      "file": "posts/stock/S026.jpg",
+      "scene": "Café-Tisch auf Piazza in Amalfi, schwarzes Leinen-Top mit tiefem V, Espresso, Goldkette, Bikinistreifen, Taille aufwärts",
+      "sceneTag": "cafe-piazza",
+      "serie": "lifestyle",
+      "status": "stock",
+      "costUsd": 0.91,
+      "note": "S025-Standard-Prompt, 12.11."
+    },
+    {
+      "id": "S027",
+      "file": "posts/stock/S027.jpg",
+      "scene": "Café-Tisch auf Piazza in Amalfi, schwarzes Leinen-Top mit tiefem V, Espresso, Goldkette, Bikinistreifen, Taille aufwärts",
+      "sceneTag": "cafe-piazza",
+      "serie": "lifestyle",
+      "status": "stock",
+      "costUsd": 0.91,
+      "note": "S025-Standard-Prompt, 12.11."
     }
   ],
   "reelDrafts": []
