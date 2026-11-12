@@ -67,7 +67,7 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   no haze, no airbrushing, no beauty filter, normal phone colours, slight noise“ und „exactly two arms and two hands“.
 
 ## Glamour-Episoden ab und zu (Nutzer 12.11.2026, etwa 1× pro Woche, zählt zu `lifestyle` oder `koerper`, abwechselnd)
-1. **Von Frauen bewundert:** Alessia kommt auf eine Hotel-Terrasse, Bootsparty oder Piazza, zwei bis drei erfundene Frauen
+1. **Von Frauen bewundert:** Alessia läuft in der Stadt (belebte Einkaufsstraße in Mailand, Gasse in Rom, Promenade) an Leuten vorbei – wirkt am natürlichsten; zwei bis drei erfundene Frauen
    (ausdrücklich „adult women in their mid-twenties“) schauen ihr bewundernd nach, lächeln, flüstern. Elegant, nichts Sexuelles,
    kein Körperkontakt. Alessia blickt in die Kamera.
 2. **Erfundenes Fashion-Event:** Runway einer erfundenen Fashion Week, Fotowand mit Blitzlicht, Paparazzi vor einem Gala-Abend;
