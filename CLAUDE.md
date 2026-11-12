@@ -24,13 +24,36 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
 | `ref_alessia_6_oberkoerper_strick.jpg` | **Figur und Oberweite (maßgeblich)** |
 | `ref_alessia_7_bikinistreifen.jpg` | Form der Bikinistreifen (Triangel-Abdrücke) |
 
-- Pro Bild: **1 + 6** immer, dazu EINE passende (2, 4, 5 oder 7 bei Bikinistreifen). Raw-URL mit Commit-SHA.
-  Im Prompt jede Referenz nach Inhalt beschreiben (Reihenfolge ist nicht garantiert), z. B. „the photo in front of a white
-  wall defines her face; the photo in a white knit top defines her figure and bust size“.
-- Aussehen: ca. 27, lange glatte dunkelbraune Haare mit Mittelscheitel, kräftige gerade dunkle Brauen, eisblaue Augen,
-  viele Sommersprossen, volle Lippen, weiches Lächeln mit geschlossenem Mund, tiefe goldene Bräune, volle Oberweite wie
-  Ref 6, schmale Taille, sportlicher Bauch, dünne Goldkette.
-- Bikinistreifen (Nutzer-Wunsch bei sexy Bildern): helle Abdrücke wie Ref 7, je Schulter genau ein Streifen.
+- **Master-Flow in ElevenLabs (Nutzer 12.11.2026, PFLICHT): „Alessia · Referenzen (Master)“, flow_id `S5oPy2PwIrUZGnqyLliY`.**
+  Darin liegen alle 7 Referenzen fest als Knoten. ALLE neuen Alessia-Bilder in DIESEM Flow erzeugen, NICHT neu anhängen,
+  KEIN neuer Flow. Referenz-Knoten (per `connect_from` verdrahten):
+  | Ref | node_id |
+  |---|---|
+  | 1 Gesicht frontal (trägerloses Top, beige Wand) | `7rW9azTNHBA09fjdttF8` |
+  | 2 Gesicht Dreiviertel | `38qZHp4rEmblVAb8kMdK` |
+  | 3 Körper | `QXUdGDifrIXmxscVOZDs` |
+  | 4 Balkon Rücken | `P92SWAO4h64Jbb84OjuY` |
+  | 5 Bett-Selfie | `DMH0SAmXIP6l6BTYr28h` |
+  | 6 Figur/Oberweite (weißes Strick-Top) | `tBTBRL1u0EBs50ZTlerw` |
+  | 7 Bikinistreifen (Strick-Top, Triangel-Streifen) | `z8h5Y4oCbH75TVoquhgI` |
+  Pro Bild IMMER **1, 2, 5 (Gesicht) + 6 (Oberweite) + 7 (Bikinistreifen)**; für Rücken-/Ganzkörperszenen statt 2 die 4 bzw. 3.
+  Vorlage-Knoten mit dem Standard-Prompt: `hWVxdJ9mgRtB39CzsG9J` („VORLAGE Alessia“) – für neue Bilder einen neuen Knoten
+  mit denselben Verbindungen anlegen und nur Szene/Outfit/Format im Prompt tauschen.
+- **Standard-Prompt (Wortlaut beibehalten, nur „New photo: …“ anpassen):** „Five reference photos of the same adult woman,
+  about 27. FACE: the close-up with a strapless top in front of a beige wall, the three-quarter portrait and the selfie in bed
+  all show her face. Her face is an exact copy of those photos: same face width and shape, same strong jaw and cheekbones,
+  strong straight dark eyebrows, ice-blue eyes, many freckles on nose and cheeks, full lips, soft closed-mouth smile, long
+  straight dark brown hair with middle part, thin gold necklace, deep golden tan. Do not make the face narrower, longer or
+  softer. FIGURE: the photo in a white knit V-neck tank top in front of a white wall defines her body: copy her bust exactly
+  from that photo, a large, full, round bust, clearly fuller than average, slim waist, toned stomach. TAN LINES: the second
+  white-knit-top photo shows her pale triangle bikini tan lines; show the same tan lines. New photo: …“ + Qualitäts-Satz unten.
+- **Oberweite (Nutzer 12.11.: „boobs are way too small“):** immer groß und voll wie Ref 6 – Ergebnisse mit kleinerer
+  Oberweite verwerfen.
+- **Look wie die Referenzen:** figurbetonte weiße/helle Tops und Kleider mit Ausschnitt, Bikinistreifen sichtbar, Blick
+  direkt in die Kamera, Bildausschnitt Taille aufwärts (Gesicht groß im Bild). Helles, klares Tageslicht – KEIN
+  „golden hour“-Dunst. Keine hochgeschlossenen Hemden oder langen Midikleider.
+- **Gesichts-Check vor dem Posten:** Ergebnis neben Ref 1 legen (gleiches Gesicht, Brauen, Sommersprossen, Kiefer).
+  Passt es nicht: verwerfen, Vorrat posten.
 - Modell `gemini-3-pro-image`, 2K, 4:5 (Foto) bzw. 9:16 (Reel-Start). Immer frisch aus den Referenzen generieren.
 - Immer: „natural iPhone photo taken by a friend, sharp focus, crisp detail, real skin with pores, no soft focus, no glow,
   no haze, no airbrushing, no beauty filter, normal phone colours, slight noise“ und „exactly two arms and two hands“.
@@ -42,7 +65,6 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   und nicht in den Vorrat legen.
 - Der Bildfilter blockiert oft: Bikini + Nässe, Bandeau + Hüfte, tiefer V + bauchfrei + Low-Rise, „remove straps/bare“.
   Dann EINMAL milder formulieren (z. B. Badeanzug mit Handtuch, Leinenkleid), danach aufgeben und Vorrat posten.
-- Fester, gefütterter Stoff (Leinen, Satin, Strick) klappt zuverlässiger als dünne Rippshirts.
 - Keine echten Personen/Prominenten, keine Marken-Logos (Handys ohne Logo), keine echten Orte als Werbung.
   Erfundene Personen nur als Erwachsene Mitte 20+.
 
@@ -60,7 +82,8 @@ Siehe `STRATEGIE.md` (Mo/Mi/Fr/So Reel, Di/Do Vorrat-Foto, Sa Karussell; Arme `k
   Tatsächliche Kosten (`price_cents`) als `costUsd` eintragen.
 
 ## Ablauf Reel
-1. Startbild 9:16, 3 Varianten, bestes wählen (Gesicht = Referenz, Hände, Stoff blickdicht).
+1. Startbild 9:16 im Master-Flow, 3 Varianten, bestes wählen (Gesichts-Check, Oberweite wie Ref 6, Hände). Gesicht groß im Bild (Taille aufwärts).
+   Arm `gesicht`: KEIN Kling – Reel aus dem besten Startbild mit langsamem Zoom (`scripts/photo_video.sh bild song out.mp4 7`), Gesicht bleibt 100 % stabil.
 2. `kling-3-pro`, 9:16, 5 s, 1080p, `generate_audio` false, Startbild an Port `start_frame`. Erst `estimate_only`.
    Negativ-Prompt nur technisch („morphing face, extra fingers, warped hands, blurry“), keine Körperbegriffe (sonst Block).
 3. Video herunterladen, mehrere Einzelbilder vergrößert ansehen (Gesicht stabil, Stoff blickdicht). Höchstens EIN neuer Versuch.

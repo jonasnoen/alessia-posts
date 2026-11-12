@@ -28,7 +28,7 @@ Statisten (Mitte 20+). Keine echten Eventnamen, Logos, Marken, Prominenten, kein
 
 ## Budget
 - **50 € pro Monat** (gerechnet als 50 USD) für ElevenLabs (Bild, Video, Musik).
-- Richtwerte: Startbild Nano Banana Pro 2K mit 3 Referenzen ≈ 0,50 $; Kling 3.0 Pro 5 s ≈ 0,56 $; Reel gesamt ≈ 1,60–2,10 $.
+- Richtwerte: Bild Nano Banana Pro 2K mit 5 Referenzen (Master-Flow) ≈ 0,71 $; Kling 3.0 Pro 5 s ≈ 0,56 $; Reel gesamt ≈ 2,10–2,70 $ (Arm gesicht ohne Kling ≈ 2,13 $ für 3 Startbilder).
 
 ## Captions und Ton
 - Englisch, 1–2 kurze Sätze + echte Frage, 3–5 Hashtags. Leicht frech, nie anzüglich, keine Motivationssprüche.

@@ -481,6 +481,18 @@
       "status": "stock",
       "source": "Restvariante aus Reel-Lauf P005, am 11.11. geprüft (Gesicht, Hände, Stoff blickdicht)",
       "costUsd": 0
+    },
+    {
+      "id": "S022",
+      "date": "2026-11-12",
+      "file": "posts/stock/S022.jpg",
+      "scene": "Sonnige Steinterrasse über der Amalfi-Küste, weißes Satin-Trägertop mit V-Ausschnitt, Bikinistreifen, frontal",
+      "sceneTag": "terrasse-meer",
+      "arm": "koerper",
+      "status": "stock",
+      "source": "Test Master-Flow 12.11. (Generation 7LqLpOjlwzVD3DSlegfp), geprüft",
+      "costUsd": 1.42,
+      "costNote": "2 Testbilder à 0,71 $ (5 Referenzen); zweites verworfen (Stoff)"
     }
   ],
   "reelDrafts": []
