@@ -66,6 +66,17 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
 - Immer: „natural iPhone photo taken by a friend, sharp focus, crisp detail, real skin with pores, no soft focus, no glow,
   no haze, no airbrushing, no beauty filter, normal phone colours, slight noise“ und „exactly two arms and two hands“.
 
+## Glamour-Episoden ab und zu (Nutzer 12.11.2026, etwa 1× pro Woche, zählt zu `lifestyle` oder `koerper`, abwechselnd)
+1. **Von Frauen bewundert:** Alessia kommt auf eine Hotel-Terrasse, Bootsparty oder Piazza, zwei bis drei erfundene Frauen
+   (ausdrücklich „adult women in their mid-twenties“) schauen ihr bewundernd nach, lächeln, flüstern. Elegant, nichts Sexuelles,
+   kein Körperkontakt. Alessia blickt in die Kamera.
+2. **Erfundenes Fashion-Event:** Runway einer erfundenen Fashion Week, Fotowand mit Blitzlicht, Paparazzi vor einem Gala-Abend;
+   Kleid/Outfit mit tiefem Ausschnitt (Standard-Prompt), direkter Blick in die Kamera, Augen scharf und gut sichtbar.
+3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer
+   hält die Tür, Blitzlicht, Blick in die Kamera.
+Immer mit dem Standard-Prompt und allen 7 Referenzen im Master-Flow. Nur erfundene Events, keine echten Eventnamen, Marken,
+Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
+
 ## Inhaltsgrenzen (Pflicht)
 - Sexy und körperbetont ja (Bikinistreifen, enge Kleider, Crop-Tops, Badeanzug, tiefe Ausschnitte). **Keine Nacktheit,
   keine expliziten Posen, keine Bilder oder Videos, auf denen sich Brustwarzen durch den Stoff abzeichnen oder Stoff

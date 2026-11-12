@@ -12,7 +12,7 @@
    „look up into camera“, Haare aus dem Gesicht streichen. Günstig und bei KI-Accounts oft am stärksten.
 3. **`lifestyle`**: Amalfi-Terrasse, bunte Gassen, Café, Dinner am Meer, Ausgehen, Spiegel-Selfies im Hotel, GRWM-Ausschnitte.
 
-**Event-Episode** (zählt zu `koerper` oder `lifestyle`, höchstens alle 2 Wochen): Fotowand mit Blitzlicht, Runway einer
+**Event-/Glamour-Episode** (zählt zu `koerper` oder `lifestyle`, etwa 1× pro Woche, siehe CLAUDE.md): Fotowand mit Blitzlicht, Runway einer
 **erfundenen** Fashion Week, Ankunft vor einem Abend-Event, Yacht-Party. Nur erfundene Events und erfundene erwachsene
 Statisten (Mitte 20+). Keine echten Eventnamen, Logos, Marken, Prominenten, keine Behauptung, sie sei wirklich dort gewesen.
 
