@@ -73,8 +73,9 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
 2. **Fashion-Show im Publikum (Nutzer 12.11.):** Alessia sitzt in der ersten Reihe einer erfundenen Fashion Show, Models laufen
    unscharf im Hintergrund über den Laufsteg, Alessia schaut direkt in die Kamera, Augen scharf und gut sichtbar.
    KEIN Blitzlicht, KEINE Paparazzi, keine Fotowand.
-3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer
-   hält die Tür, Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
+3. **Ankunft aus der Limousine (Nutzer 12.11.):** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen
+   ohne Logo/Markenzeichen – irgendwo im Alltag (vor einem Hotel, Restaurant, am Hafen, auf einer Stadtstraße), NICHT bei einer
+   Fashion Show oder einem Event. Fahrer hält die Tür, normales Tageslicht, Blick in die Kamera. Kein Blitzlicht, keine Paparazzi.
 Immer mit dem Standard-Prompt und allen 7 Referenzen im Master-Flow. Nur erfundene Events, keine echten Eventnamen, Marken,
 Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 

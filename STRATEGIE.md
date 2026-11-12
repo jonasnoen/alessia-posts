@@ -14,7 +14,7 @@
 
 **Event-/Glamour-Episode** (zählt zu `koerper` oder `lifestyle`, etwa 1× pro Woche, siehe CLAUDE.md): Fashion-Show einer
 **erfundenen** Fashion Week im Publikum (erste Reihe, Blick in die Kamera), von Frauen bewundert beim Vorbeilaufen in der Stadt,
-Ankunft aus einer Limousine. Kein Blitzlicht, keine Paparazzi, keine Fotowand. Nur erfundene Events und erfundene erwachsene
+Ankunft aus einer Limousine irgendwo im Alltag (nicht bei einem Event). Kein Blitzlicht, keine Paparazzi, keine Fotowand. Nur erfundene Events und erfundene erwachsene
 Statisten (Mitte 20+). Keine echten Eventnamen, Logos, Marken, Prominenten, keine Behauptung, sie sei wirklich dort gewesen.
 
 ## Wochenplan (täglich 1 Post, 19:30 Europe/Berlin)
