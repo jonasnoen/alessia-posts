@@ -527,6 +527,16 @@
       "status": "stock",
       "costUsd": 3.64,
       "note": "Test 12.11. verstärkter Brust-Satz (2 Läufe, 1 Variante blockiert)"
+    },
+    {
+      "id": "S024",
+      "file": "posts/stock/S024.jpg",
+      "scene": "Bootsdeck Amalfi, weißes Triangel-Bikini-Top, Goldkette, Bikinistreifen, sitzend, Taille aufwärts",
+      "sceneTag": "boot",
+      "serie": "koerper",
+      "status": "stock",
+      "costUsd": 5.46,
+      "note": "12.11.: inkl. 2 blockierter Läufe (Streifen-Tests) und 1 blockierter Variante"
     }
   ],
   "reelDrafts": []
