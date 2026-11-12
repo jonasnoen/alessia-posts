@@ -74,7 +74,7 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
    unscharf im Hintergrund über den Laufsteg, Alessia schaut direkt in die Kamera, Augen scharf und gut sichtbar.
    KEIN Blitzlicht, KEINE Paparazzi, keine Fotowand.
 3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer
-   hält die Tür Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
+   hält die Tür, Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
 Immer mit dem Standard-Prompt und allen 7 Referenzen im Master-Flow. Nur erfundene Events, keine echten Eventnamen, Marken,
 Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
