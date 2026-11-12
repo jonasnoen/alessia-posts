@@ -70,10 +70,11 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
 1. **Von Frauen bewundert:** Alessia läuft in der Stadt (belebte Einkaufsstraße in Mailand, Gasse in Rom, Promenade) an Leuten vorbei – wirkt am natürlichsten; zwei bis drei erfundene Frauen
    (ausdrücklich „adult women in their mid-twenties“) schauen ihr bewundernd nach, lächeln, flüstern. Elegant, nichts Sexuelles,
    kein Körperkontakt. Alessia blickt in die Kamera.
-2. **Erfundenes Fashion-Event:** Runway einer erfundenen Fashion Week, Fotowand mit Blitzlicht, Paparazzi vor einem Gala-Abend;
-   Kleid/Outfit mit tiefem Ausschnitt (Standard-Prompt), direkter Blick in die Kamera, Augen scharf und gut sichtbar.
+2. **Fashion-Show im Publikum (Nutzer 12.11.):** Alessia sitzt in der ersten Reihe einer erfundenen Fashion Show, Models laufen
+   unscharf im Hintergrund über den Laufsteg, Alessia schaut direkt in die Kamera, Augen scharf und gut sichtbar.
+   KEIN Blitzlicht, KEINE Paparazzi, keine Fotowand.
 3. **Ankunft:** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen ohne Logo/Markenzeichen, Fahrer
-   hält die Tür, Blitzlicht, Blick in die Kamera.
+   hält die Tür Blick in die Kamera (kein Blitzlicht, keine Paparazzi).
 Immer mit dem Standard-Prompt und allen 7 Referenzen im Master-Flow. Nur erfundene Events, keine echten Eventnamen, Marken,
 Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
