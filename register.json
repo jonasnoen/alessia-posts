@@ -171,7 +171,30 @@
         "tiktok": 423442330
       },
       "scheduledFor": "2026-11-10T19:30:00+01:00",
-      "mediaCommit": "a2cd22995a6456f3ac775503a8665c207d766a20"
+      "mediaCommit": "a2cd22995a6456f3ac775503a8665c207d766a20",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-12T18:20:00+01:00",
+          "tiktok": {
+            "views": 837,
+            "likes": 94,
+            "comments": 8,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "reach": 2,
+            "views": 0,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "follows": 0,
+            "comments": 1
+          },
+          "note": "Stand 12.11. 18:20 (ca. 47 h). Instagram-Feed-Post fast ohne Reichweite laut Metricool (Reichweite 2); Profilbesuche nicht pro Post verfügbar."
+        }
+      }
     },
     {
       "id": "P005",
@@ -197,6 +220,22 @@
       },
       "scheduledFor": "2026-11-11T19:30:00+01:00",
       "mediaCommit": "5a4fcbd1f29e375d35d670d68e97fc41e65b2290"
+    },
+    {
+      "id": "P006",
+      "date": "2026-11-12",
+      "type": "photo",
+      "arm": "vorrat",
+      "scene": "Dinner am Meer zum Sonnenuntergang, beiges Satin-Trägerkleid, Weißwein, Kinn auf der Hand",
+      "sceneTag": "dinner-meer",
+      "stockId": "S004",
+      "file": "posts/P006/foto.jpg",
+      "tiktok": "posts/P006/tiktok.mp4",
+      "music": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
+      "caption": "Table for two, sunset included 🥂 Would you order red or white with this view?\n\n#italiangirl #amalfivibes #sunsetdinner #dolcevita #aicreator",
+      "tiktokTitle": "Table for two, sunset included 🥂",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "stock": [
@@ -242,9 +281,10 @@
       "scene": "Dinner am Meer zum Sonnenuntergang, beiges Satin-Trägerkleid, Weißwein",
       "sceneTag": "dinner-meer",
       "arm": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/SET4 Dinner.png), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedIn": "P006"
     },
     {
       "id": "S005",
@@ -253,9 +293,10 @@
       "scene": "Strand bei Sonnenuntergang, weißes Off-Shoulder-Crop-Top, Bikinistreifen",
       "sceneTag": "strand-sunset",
       "arm": "koerper",
-      "status": "stock",
+      "status": "blocked",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/SET5 Off-Shoulder Tan Lines.png), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "note": "12.11. geprüft: weißer Leinenstoff leicht durchscheinend (Bikini-Oberteil zeichnet sich ab) → nach Inhaltsgrenze nicht posten."
     },
     {
       "id": "S006",
