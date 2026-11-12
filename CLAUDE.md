@@ -36,10 +36,10 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   | 5 Bett-Selfie | `DMH0SAmXIP6l6BTYr28h` |
   | 6 Figur/Oberweite (weißes Strick-Top) | `tBTBRL1u0EBs50ZTlerw` |
   | 7 Bikinistreifen (Strick-Top, Triangel-Streifen) | `z8h5Y4oCbH75TVoquhgI` |
-  Pro Bild IMMER **1, 2, 5 (Gesicht) + 6 (Oberweite) + 7 (Bikinistreifen)**; für Rücken-/Ganzkörperszenen statt 2 die 4 bzw. 3.
+  Pro Bild IMMER **alle 7 Referenz-Knoten** verbinden (Nutzer 12.11.: „use all the reference pics“).
   Vorlage-Knoten mit dem Standard-Prompt: `hWVxdJ9mgRtB39CzsG9J` („VORLAGE Alessia“) – für neue Bilder einen neuen Knoten
   mit denselben Verbindungen anlegen und nur Szene/Outfit/Format im Prompt tauschen.
-- **Standard-Prompt (Wortlaut beibehalten, nur „New photo: …“ anpassen):** „Five reference photos of the same adult woman,
+- **Standard-Prompt (Wortlaut beibehalten, nur „New photo: …“ anpassen):** „Seven reference photos of the same adult woman,
   about 27. FACE: the close-up with a strapless top in front of a beige wall, the three-quarter portrait and the selfie in bed
   all show her face. Her face is an exact copy of those photos: same face width and shape, same strong jaw and cheekbones,
   strong straight dark eyebrows, ice-blue eyes, many freckles on nose and cheeks, full lips, soft closed-mouth smile, long
@@ -63,6 +63,8 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   keine expliziten Posen, keine Bilder oder Videos, auf denen sich Brustwarzen durch den Stoff abzeichnen oder Stoff
   durchscheint.** Jedes Ergebnis vor dem Posten daraufhin ansehen (Ausschnitt vergrößern); solche Varianten nie posten
   und nicht in den Vorrat legen.
+- **Prompts NICHT mit Stoff-/Blickdicht-/Körperverboten füllen** (Nutzer 12.11.). Normaler Szenen-Prompt mit dem Standardtext oben.
+  Ist eine Variante wegen der Inhaltsgrenze unbrauchbar: die andere nehmen; sind beide unbrauchbar: NICHT nachgenerieren, Vorrat posten (spart Geld).
 - Der Bildfilter blockiert oft: Bikini + Nässe, Bandeau + Hüfte, tiefer V + bauchfrei + Low-Rise, „remove straps/bare“.
   Dann EINMAL milder formulieren (z. B. Badeanzug mit Handtuch, Leinenkleid), danach aufgeben und Vorrat posten.
 - Keine echten Personen/Prominenten, keine Marken-Logos (Handys ohne Logo), keine echten Orte als Werbung.
@@ -82,7 +84,7 @@ Siehe `STRATEGIE.md` (Mo/Mi/Fr/So Reel, Di/Do Vorrat-Foto, Sa Karussell; Arme `k
   Tatsächliche Kosten (`price_cents`) als `costUsd` eintragen.
 
 ## Ablauf Reel
-1. Startbild 9:16 im Master-Flow, 3 Varianten, bestes wählen (Gesichts-Check, Oberweite wie Ref 6, Hände). Gesicht groß im Bild (Taille aufwärts).
+1. Startbild 9:16 im Master-Flow, 2 Varianten, bestes wählen (Gesichts-Check, Oberweite wie Ref 6, Hände). Gesicht groß im Bild (Taille aufwärts).
    Arm `gesicht`: KEIN Kling – Reel aus dem besten Startbild mit langsamem Zoom (`scripts/photo_video.sh bild song out.mp4 7`), Gesicht bleibt 100 % stabil.
 2. `kling-3-pro`, 9:16, 5 s, 1080p, `generate_audio` false, Startbild an Port `start_frame`. Erst `estimate_only`.
    Negativ-Prompt nur technisch („morphing face, extra fingers, warped hands, blurry“), keine Körperbegriffe (sonst Block).
