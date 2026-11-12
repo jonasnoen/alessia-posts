@@ -46,7 +46,7 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   jaw and cheekbones, strong straight dark eyebrows, ice-blue eyes, many freckles on nose and cheeks, full lips, soft
   closed-mouth smile, long straight dark brown hair with middle part, deep golden tan. Do not make the face narrower, longer or
   softer. BUST ONLY: the photo in a white knit V-neck tank top in front of a white wall with a gold necklace is used ONLY for
-  her bust and chest: copy the bust exactly from that photo – size, fullness and shape. Slim waist, toned stomach. She always
+  her bust and chest: copy the bust exactly from that photo – size, fullness and shape. She has a very large, full, round natural bust (large D cup), clearly bigger than average and exactly as big as in that photo, never smaller; the bust fills her top. Slim waist, toned stomach. She always
   wears a bikini top, a bandeau top or a top with a deep neckline, the framing shows more of her upper body, and her pale
   bikini tan lines are always clearly visible. New photo: …“
   + Qualitäts-Satz unten.

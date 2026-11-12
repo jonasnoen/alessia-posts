@@ -517,6 +517,16 @@
       "source": "Test Master-Flow 12.11. (Generation 7LqLpOjlwzVD3DSlegfp), geprüft",
       "costUsd": 1.42,
       "costNote": "2 Testbilder à 0,71 $ (5 Referenzen); zweites verworfen (Stoff)"
+    },
+    {
+      "id": "S023",
+      "file": "posts/stock/S023.jpg",
+      "scene": "Bootsdeck in türkiser Bucht, Amalfi, weißes Triangel-Bikini-Top, Goldkette, Bikinistreifen, Taille aufwärts",
+      "sceneTag": "boot",
+      "serie": "koerper",
+      "status": "stock",
+      "costUsd": 3.64,
+      "note": "Test 12.11. verstärkter Brust-Satz (2 Läufe, 1 Variante blockiert)"
     }
   ],
   "reelDrafts": []
