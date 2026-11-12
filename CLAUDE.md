@@ -47,11 +47,11 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   closed-mouth smile, long straight dark brown hair with middle part, deep golden tan. Do not make the face narrower, longer or
   softer. BUST ONLY: the photo in a white knit V-neck tank top in front of a white wall with a gold necklace is used ONLY for
   her bust and chest: copy the bust exactly from that photo – size, fullness and shape. She has a very large, full, round natural bust (large D cup), clearly bigger than average and exactly as big as in that photo, never smaller; the bust fills her top. Slim waist, toned stomach. She always
-  wears a revealing outfit with a very deep, plunging neckline (bikini top, bandeau top or low-cut top), the framing shows more of her upper body, and her pale
+  wears a bikini top, a bandeau top or a top with a deep neckline and deep décolleté, the framing shows more of her upper body, and her pale
   bikini tan lines are always clearly visible. New photo: …“
   + Qualitäts-Satz unten.
 - **Nutzer 12.11.: In JEDEM Prompt (Foto, Reel-Start, Karussell, egal welche Szene): Bikini-Top, Bandeau oder tiefer
-  Ausschnitt, mehr Oberkörper im Bild, Bikinistreifen sichtbar. Nutzer 12.11. 21:42: IMMER freizügig mit sehr tiefem Ausschnitt.** Keine normale Sommerkleidung als Standard. Bewährt: Triangel-Bikini-Top bzw. weißes Leinen-Top mit tiefem V (S024, S025). Streifen nur mit „pale bikini tan lines visible on her shoulders and chest“ beschreiben – stärkere Formulierungen („almost white“, Bandeau + Streifen auf der Brust) blockiert der Filter.
+  Ausschnitt, mehr Oberkörper im Bild, Bikinistreifen sichtbar. Nutzer 12.11. 21:48: IMMER tiefes Dekolleté (Wort „revealing“ NICHT verwenden).** Keine normale Sommerkleidung als Standard. Bewährt: Triangel-Bikini-Top bzw. weißes Leinen-Top mit tiefem V (S024, S025). Streifen nur mit „pale bikini tan lines visible on her shoulders and chest“ beschreiben – stärkere Formulierungen („almost white“, Bandeau + Streifen auf der Brust) blockiert der Filter. Ebenfalls blockiert: Nahaufnahme ab Brust im hautfarbenen/beigen Bikini – Bikini-Farben weiß, schwarz oder kräftig wählen, nie beige/nude.
 - **Mehr Nahaufnahmen von Augen und Gesicht** (Nutzer 12.11.): Arm `gesicht` und mindestens jedes zweite Vorrat-/Karussell-
   Bild als Close-up (Kopf und Schultern, Augen scharf, Blick in die Kamera).
 - **Oberweite (Nutzer 12.11.: „boobs are way too small“):** immer groß und voll wie Ref 6 – Ergebnisse mit kleinerer
