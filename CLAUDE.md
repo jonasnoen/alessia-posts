@@ -87,7 +87,7 @@ Siehe `STRATEGIE.md` (Mo/Mi/Fr/So Reel, Di/Do Vorrat-Foto, Sa Karussell; Arme `k
 ## Ablauf Reel
 1. Startbild 9:16 im Master-Flow, 2 Varianten, bestes wählen (Gesichts-Check, Oberweite wie Ref 6, Hände). Gesicht groß im Bild (Taille aufwärts).
    Arm `gesicht`: KEIN Kling – Reel aus dem besten Startbild mit langsamem Zoom (`scripts/photo_video.sh bild song out.mp4 7`), Gesicht bleibt 100 % stabil.
-2. `kling-3-pro`, 9:16, 5 s, 1080p, `generate_audio` false, Startbild an Port `start_frame`. Erst `estimate_only`.
+2. Video-Knoten ebenfalls IM MASTER-FLOW anlegen (Startbild kommt aus dem Master-Flow, also mit Gesicht aus den Referenzen und Brust aus Ref 6). `kling-3-pro`, 9:16, 5 s, 1080p, `generate_audio` false, Startbild an Port `start_frame`. Erst `estimate_only`.
    Negativ-Prompt nur technisch („morphing face, extra fingers, warped hands, blurry“), keine Körperbegriffe (sonst Block).
 3. Video herunterladen, mehrere Einzelbilder vergrößert ansehen (Gesicht stabil, Stoff blickdicht). Höchstens EIN neuer Versuch.
    Ausgabe nicht 9:16 (Kling übernimmt das Format des Startbilds): mit Unschärfe-Rand auf 1080×1920 bringen.
@@ -99,7 +99,7 @@ passend zur Szene, kein Song zweimal innerhalb von 10 Tagen (Feld `music` in `re
 Auch die TikTok-Videos der Foto-Posts bekommen einen Song. Komplette Songs NIE ins Repo.
 
 ## Ablauf Foto-/Karussell-Post
-- Instagram: `type` POST, Bild(er) 4:5 aus dem Vorrat.
+- Instagram: `type` POST, Bild(er) 4:5 aus dem Vorrat. Neue Fotos/Karussell-Bilder IMMER im Master-Flow mit dem Standard-Prompt erzeugen.
 - TikTok: Foto als 6-s-Video mit langsamem Zoom auf 1080×1920 (Unschärfe-Rand) mit Song, Titel Pflicht. Karussell
   als Slideshow-Video (je Bild 2 s).
 
