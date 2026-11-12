@@ -235,7 +235,13 @@
       "caption": "Table for two, sunset included 🥂 Would you order red or white with this view?\n\n#italiangirl #amalfivibes #sunsetdinner #dolcevita #aicreator",
       "tiktokTitle": "Table for two, sunset included 🥂",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 425982582,
+        "tiktok": 425982620
+      },
+      "scheduledFor": "2026-11-12T19:30:00+01:00",
+      "mediaCommit": "58968c51e076cb4472d55f276fb8952e20643d86"
     }
   ],
   "stock": [
