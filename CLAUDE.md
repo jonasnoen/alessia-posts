@@ -26,7 +26,7 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
 
 - **Master-Flow in ElevenLabs (Nutzer 12.11.2026, PFLICHT): „Alessia · Referenzen (Master)“, flow_id `S5oPy2PwIrUZGnqyLliY`.**
   Darin liegen alle 7 Referenzen fest als Knoten. ALLE neuen Alessia-Bilder in DIESEM Flow erzeugen, NICHT neu anhängen,
-  KEIN neuer Flow. Referenz-Knoten (per `connect_from` verdrahten):
+  KEIN neuer Flow. Einzel-Referenz-Knoten (nur Reserve, Standard ist die Collage, siehe unten):
   | Ref | node_id |
   |---|---|
   | 1 Gesicht frontal (trägerloses Top, beige Wand) | `7rW9azTNHBA09fjdttF8` |
@@ -36,17 +36,20 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   | 5 Bett-Selfie | `DMH0SAmXIP6l6BTYr28h` |
   | 6 Figur/Oberweite (weißes Strick-Top) | `tBTBRL1u0EBs50ZTlerw` |
   | 7 Bikinistreifen (Strick-Top, Triangel-Streifen) | `z8h5Y4oCbH75TVoquhgI` |
-  Pro Bild IMMER **alle 7 Referenz-Knoten** verbinden (Nutzer 12.11.: „use all the reference pics“).
-  Vorlage-Knoten mit dem Standard-Prompt: `hWVxdJ9mgRtB39CzsG9J` („VORLAGE Alessia“) – für neue Bilder einen neuen Knoten
-  mit denselben Verbindungen anlegen und nur Szene/Outfit/Format im Prompt tauschen.
+  **KOSTEN-STANDARD (Nutzer 13.11.2026): Referenz-Collage.** Pro Bild NUR den Collage-Knoten `FCJNtKHpHQ7qJ8xaUbMC`
+  („REF Collage Alessia (1–7)“, Datei `assets/reference/ref_collage_alessia.jpg`: obere Reihe Refs 1–4, untere Reihe Ref 5 Bett-Selfie
+  + Ref 6 und 7 im weißen Strick-Top) verbinden – NICHT mehr die 7 Einzel-Knoten (≈ 0,30 $ statt 0,91 $ pro Bild, Test S028 bestanden).
+  Alle Referenzen stecken weiter drin. Die Einzel-Knoten bleiben nur als Reserve im Flow.
+  Vorlage-Knoten mit dem Standard-Prompt: `TuktqdeHnNt55hmxDF15` („TEST Collage – Terrasse Leinen-V“) – für neue Bilder einen neuen Knoten
+  mit derselben Verbindung anlegen und nur Szene/Outfit/Format im Prompt tauschen. (Alter Vorlage-Knoten `hWVxdJ9mgRtB39CzsG9J` nicht mehr benutzen.)
 - **Standard-Prompt (Wortlaut beibehalten, nur „New photo: …“ anpassen; Nutzer 12.11.: Ref 6 NUR für die Brust, alle anderen NUR fürs Gesicht):**
-  „Seven reference photos of the same adult woman, about 27. FACE ONLY: six of the photos (the close-up with a strapless top
-  in front of a beige wall, the three-quarter portrait, the full-body photo, the photo from behind on a balcony, the selfie in
-  bed and the second photo in a white knit top) are used ONLY for her face and hair: same face width and shape, same strong
+  „The reference image is a collage of photos of the same adult woman, about 27. FACE ONLY: the top row (close-up with a strapless
+  top in front of a beige wall, three-quarter portrait, full-body photo, photo from behind on a balcony) and the bottom-left selfie
+  in bed are used ONLY for her face and hair: same face width and shape, same strong
   jaw and cheekbones, strong straight dark eyebrows, ice-blue eyes, many freckles on nose and cheeks, full lips, soft
   closed-mouth smile, long straight dark brown hair with middle part, deep golden tan. Do not make the face narrower, longer or
-  softer. BUST ONLY: the photo in a white knit V-neck tank top in front of a white wall with a gold necklace is used ONLY for
-  her bust and chest: copy the bust exactly from that photo – size, fullness and shape. She has a very large, full, round natural bust (large D cup), clearly bigger than average and exactly as big as in that photo, never smaller; the bust fills her top. Slim waist, toned stomach. She always
+  softer. BUST ONLY: the two bottom photos in a white knit V-neck tank top in front of a white wall with a gold necklace are used ONLY for
+  her bust and chest: copy the bust exactly from those photos – size, fullness and shape. She has a very large, full, round natural bust (large D cup), clearly bigger than average and exactly as big as in those photos, never smaller; the bust fills her top. Slim waist, toned stomach. She always
   wears a revealing outfit with a very deep, plunging neckline (bikini top, bandeau top or low-cut top), the framing shows more of her upper body, and her pale
   bikini tan lines are always clearly visible. She always strikes a confident, flirty, sexy model pose (for example a hand in her hair,
   one shoulder slightly turned towards the camera, head tilted, a playful look into the lens). New photo: …“
@@ -76,7 +79,7 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
 3. **Ankunft aus der Limousine (Nutzer 12.11.):** steigt hinten aus einer schwarzen Luxus-Limousine bzw. einem teuren Sportwagen
    ohne Logo/Markenzeichen – irgendwo im Alltag (vor einem Hotel, Restaurant, am Hafen, auf einer Stadtstraße), NICHT bei einer
    Fashion Show oder einem Event. Fahrer hält die Tür, normales Tageslicht, Blick in die Kamera. Kein Blitzlicht, keine Paparazzi.
-Immer mit dem Standard-Prompt und allen 7 Referenzen im Master-Flow. Nur erfundene Events, keine echten Eventnamen, Marken,
+Immer mit dem Standard-Prompt und der Referenz-Collage im Master-Flow. Nur erfundene Events, keine echten Eventnamen, Marken,
 Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
 ## Neue Formate A1–A8 (Nutzer 13.11.2026, Details in `formats.md`)

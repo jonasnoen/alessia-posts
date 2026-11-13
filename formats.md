@@ -3,7 +3,7 @@
 (Ergänzt montags aus dem vidIQ-Check; Muster erst ab zwei Belegen.)
 
 ## Vom Nutzer vorgegebene Formate (13.11.2026, aus Inspirationsbildern – nur Format übernehmen, nie fremde Gesichter)
-Immer im Master-Flow mit Standard-Prompt und allen 7 Referenzen, Alessias eigenes Gesicht. Stil: Goldschmuck (Creolen, mehrere Armreifen).
+Immer im Master-Flow mit Standard-Prompt und der Referenz-Collage (Knoten `FCJNtKHpHQ7qJ8xaUbMC`), Alessias eigenes Gesicht. Stil: Goldschmuck (Creolen, mehrere Armreifen).
 - **A1 · Fashion Show, erste Reihe** (Glamour-Episode): schwarzes Satin-Neckholderkleid mit tiefem V, andere Gäste unscharf daneben, Blick in die Kamera. Kein Blitzlicht.
 - **A2 · Close-up beim Dinner** (`gesicht`): schwarzes Neckholder-Top, „sleek gelled hair pulled back“ (nicht „nass“ schreiben), große Goldcreolen, verspielter Blick.
 - **A3 · Terrasse über Amalfi am Abend** (`lifestyle`): schwarzes schulterfreies Minikleid, Glas Weißwein, Schulter zur Kamera, Meer dahinter. Abendlicht erlaubt, aber scharf: „clear evening light, sharp, no haze“.
