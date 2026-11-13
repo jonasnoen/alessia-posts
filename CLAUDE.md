@@ -96,7 +96,7 @@ nichts Sexuelles, kein Körperkontakt, keine Klischees über Gruppen oder Lände
 ## Test-Format „Alessia tanzt in Kinshasa“ (Nutzer 13.11.2026, EINMALIGER Test als Reel, Arm `lifestyle`, danach Zahlen abwarten)
 Alessia ist die einzige weiße Frau in einer Gruppe und tanzt ausgelassen MIT ihnen zusammen: Tanzkreis bei einer Straßenparty
 oder in einem Club/auf einer Rooftop-Party in Kinshasa, Rumba-/Afrobeats-Stimmung, mit MEHREREN Männern (Nutzer 13.11.:
-erfundene Schwarze Männer, Mitte 20+, modisch gekleidet) im Kreis um sie, alle tanzen und lachen gemeinsam, sie wird angefeuert
+erfundene Schwarze Männer, Mitte 20+, modisch gekleidet) im Kreis um sie – Alessia steht IN DER MITTE des Tanzkreises, zentral und groß im Bild –, alle tanzen und lachen gemeinsam, sie wird angefeuert
 und tanzt mit – Freude auf Augenhöhe. Höchstens Hand halten/Drehung, kein enges Antanzen, nichts Sexuelles.
 Startbild 9:16 im Master-Flow (Standard-Prompt, tiefer Ausschnitt, Goldschmuck, Blick in die Kamera), dann Kling-Video mit
 Tanzbewegung. NICHT: Armut/Elend als Hintergrund, Kinder, Retter-Motive, Klischees, Leute nur als staunende Kulisse.
