@@ -597,7 +597,8 @@
       "generationId": "4zHM8zMhEfQsqBbSIKZ6",
       "status": "draft",
       "costUsd": 1.97,
-      "costNote": "Startbild v1 0,30 (Brust zu klein, verworfen) + Stimme 0,03 + Startbild v2 0,30 + Video 1,34"
+      "costNote": "Startbild v1 0,30 (Brust zu klein, verworfen) + Stimme 0,03 + Startbild v2 0,30 + Video 1,34",
+      "music": "assets/music/songs/bad-bunny-dtmf.m4a"
     },
     {
       "id": "KLING-HEMD",
