@@ -163,7 +163,7 @@ Auch die TikTok-Videos der Foto-Posts bekommen einen Song. Komplette Songs NIE i
 3. Planen für HEUTE 19:30 Europe/Berlin (liegt das in der Vergangenheit: 10 Minuten ab jetzt), `autoPublish` true,
    Medien `https://raw.githubusercontent.com/jonasnoen/alessia-posts/<commit-sha>/<pfad>`.
    Instagram Reel/Post, TikTok Titel Pflicht, `privacyOption` PUBLIC_TO_EVERYONE.
-   **KI-Kennzeichnung immer einschalten** (`isAiGenerated`, `isAigc`). **Zusätzlich (Nutzer 13.11.2026): jede Caption und jeder TikTok-Titel enthält den Hashtag `#aicreator`** (zählt zu den 4–6 Hashtags). Etikett bleibt trotzdem immer an.
+   **KI-Kennzeichnung immer einschalten** (`isAiGenerated`, `isAigc`).
 4. Metricool-ID und Status `scheduled` eintragen, pushen. Unklare Antwort: Status `unknown`, NICHT erneut senden,
    Nutzer per Push-Nachricht bitten, in Metricool nachzusehen.
 
