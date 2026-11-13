@@ -1,5 +1,18 @@
 # Strategie Alessia Moretti (verbindlich ab 06.11.2026, vom Nutzer freigegeben)
 
+## KURSKORREKTUR 14.–27.11.2026 (Nutzer 13.11.2026, nach Metricool-Daten 1.–13.11.) – hat Vorrang vor älteren Abschnitten
+**Daten:** Instagram verteilt kaum (1 Follower, Reels 10–150 Aufrufe, 61–90 % wischen in den ersten 3 s weg, Ø 2–4 s Wiedergabe,
+0 Saves/Shares). TikTok bringt Reichweite: Alessia 225–855 Aufrufe/Post mit 5–12 % Likes/Aufrufe – bester Post „Little black dress … which one is more me?“ (855 Aufrufe, 95 Likes, 8 Kommentare).
+**Regeln bis zur Auswertung am 27.11.:**
+1. **TikTok zuerst.** Formate für TikTok bauen, Instagram läuft mit. Auf Instagram zählt vorerst nur die Skip-Rate.
+2. **Die erste Sekunde muss packen:** jedes Reel startet mit Bewegung oder direkter Ansprache, nie mit einem ruhigen Standbild/langsamen Zoom.
+   Hook-Text ab Sekunde 0 mit Frage oder Spannung.
+3. **Sprechvideos 2× pro Woche** (Kling + Sync 3, < 10 s, direkte Frage an den Zuschauer, siehe CLAUDE.md). Sie ersetzen 2 der normalen Reels.
+4. **Alessia: mehr von dem, was läuft:** Outfit-Fragen („which one is more me?“), Sprechvideos mit Frage, Boot/Push-up-Bikini (geht durch den Filter), „Reaktion im Alltag“. Vorrat-Bilder direkt als Kling-Startbild nutzen (spart Geld).
+5. **Captions kurz:** höchstens 1–2 Sätze + eine echte Frage + 4–6 Hashtags. Keine langen Erklärtexte.
+6. **Ziele:** Skip-Rate (erste 3 s) < 50 %, TikTok Likes/Aufrufe > 5 %. Ein Format, das nach 3 Posts beide Ziele verfehlt, fliegt raus.
+   Bei jedem Lauf h48/d7-Zahlen eintragen (inkl. IG Skip-Rate `IGRE30`, Ø Wiedergabe `IGRE24`, TikTok Likes/Views).
+
 ## Wer sie ist
 - **Alessia Moretti**, virtuelle Italienerin, ca. 27, „Italian girl, American summers“ (Amalfi ↔ Miami).
   Offen virtuell (Bio „AI creator“, KI-Label bei jedem Post).
