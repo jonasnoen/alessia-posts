@@ -586,5 +586,18 @@
       "note": "erster Lauf mit Referenz-Collage (1 Bild statt 7)"
     }
   ],
-  "reelDrafts": []
+  "reelDrafts": [
+    {
+      "id": "TALK01",
+      "date": "2026-11-13",
+      "type": "Sprechvideo-Test (OmniHuman 1.5)",
+      "scene": "Terrasse Amalfi, schwarzes Rippstrick-Top tiefes V, Goldschmuck, spricht in die Kamera",
+      "text": "Be honest. Would you text first or wait for me to text you? …Wrong answer. Try again in the comments.",
+      "voice": "Cristina B PVC (hPZsPQkqWehjZarI2ncr), eleven_v3",
+      "generationId": "4zHM8zMhEfQsqBbSIKZ6",
+      "status": "draft",
+      "costUsd": 1.97,
+      "costNote": "Startbild v1 0,30 (Brust zu klein, verworfen) + Stimme 0,03 + Startbild v2 0,30 + Video 1,34"
+    }
+  ]
 }
