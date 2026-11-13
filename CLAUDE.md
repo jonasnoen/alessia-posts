@@ -93,13 +93,13 @@ Waschsalon, Bahnhof, Wochenmarkt, Supermarkt-Kasse, Tankstelle. Daneben normale 
 die sichtbar reagieren (drehen sich um, staunen, flüstern). Alessia ganz selbstverständlich, Blick in die Kamera. Respektvoll,
 nichts Sexuelles, kein Körperkontakt, keine Klischees über Gruppen oder Länder. Tageslicht bzw. normales Innenlicht, scharf.
 
-## Test-Format „Alessia in Kinshasa“ (Nutzer 13.11.2026, EINMALIGER Test, Arm `lifestyle`, danach Zahlen abwarten)
-Alessia lebt/verbringt Zeit in Kinshasa (Kongo) und ist dort Teil der Szene, nicht Besucherin: z. B. lacht mit zwei, drei
-Freundinnen und Freunden (erfundene Schwarze Erwachsene, Mitte 20+, modisch und selbstbewusst gekleidet) auf einer Rooftop-Bar,
-in einem stylischen Café, beim Bummeln über einen bunten Stoff-/Modemarkt mit einer Händlerin auf Augenhöhe. Alle gleichberechtigt
-im Bild, alle gut gekleidet, gemeinsame Freude. Standard-Prompt für Alessia (tiefer Ausschnitt, Goldschmuck), Blick in die Kamera.
-NICHT: staunende Einheimische als Kulisse, Armut/Elend als Hintergrund, Kinder, Hilfs-/Retter-Motive, Klischees. Caption locker
-über Ort/Musik/Mode (z. B. „Kinshasa nights hit different“), keine Behauptung, dass es echt passiert ist.
+## Test-Format „Alessia tanzt in Kinshasa“ (Nutzer 13.11.2026, EINMALIGER Test als Reel, Arm `lifestyle`, danach Zahlen abwarten)
+Alessia ist die einzige weiße Frau in einer Gruppe und tanzt ausgelassen MIT ihnen zusammen: Tanzkreis bei einer Straßenparty
+oder in einem Club/auf einer Rooftop-Party in Kinshasa, Rumba-/Afrobeats-Stimmung, erfundene Schwarze Erwachsene (Mitte 20+),
+modisch gekleidet, alle tanzen und lachen gemeinsam, sie wird angefeuert und tanzt mit – Freude auf Augenhöhe.
+Startbild 9:16 im Master-Flow (Standard-Prompt, tiefer Ausschnitt, Goldschmuck, Blick in die Kamera), dann Kling-Video mit
+Tanzbewegung. NICHT: Armut/Elend als Hintergrund, Kinder, Retter-Motive, Klischees, Leute nur als staunende Kulisse.
+Caption locker (z. B. „They said I couldn't keep up 💃 Kinshasa nights hit different“), keine Behauptung, dass es echt passiert ist.
 
 ## Inhaltsgrenzen (Pflicht)
 - Sexy und körperbetont ja (Bikinistreifen, enge Kleider, Crop-Tops, Badeanzug, tiefe Ausschnitte). **Keine Nacktheit,
