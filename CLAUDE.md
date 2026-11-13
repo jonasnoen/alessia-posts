@@ -142,6 +142,7 @@ Siehe `STRATEGIE.md` (Mo/Mi/Fr/So Reel, Di/Do Vorrat-Foto, Sa Karussell; Arme `k
 1. Startbild 9:16 im Master-Flow, 2 Varianten, bestes wählen (Gesichts-Check, Oberweite wie Ref 6, Hände). Gesicht groß im Bild (Taille aufwärts).
    Arm `gesicht`: KEIN Kling – Reel aus dem besten Startbild mit langsamem Zoom (`scripts/photo_video.sh bild song out.mp4 7`), Gesicht bleibt 100 % stabil.
 2. Video-Knoten ebenfalls IM MASTER-FLOW anlegen (Startbild kommt aus dem Master-Flow, also mit Gesicht aus den Referenzen und Brust aus Ref 6). `kling-3-pro`, 9:16, 5 s, 1080p, `generate_audio` false, Startbild an Port `start_frame`. Erst `estimate_only`.
+   **Spar-Trick (Nutzer 13.11.2026, Test S024 bestanden):** Statt ein neues Startbild zu erzeugen, darf ein geprüftes Vorrat-Bild (`posts/stock/S###.jpg`, Status `stock`) direkt als `start_frame` für Kling dienen (per `creative_attach_reference_file` mit raw-GitHub-URL in den Master-Flow). Spart das Startbild und das Risiko eines Bildfilter-Blocks. Danach im Vorrat Status `used` + Post-ID setzen.
    Negativ-Prompt nur technisch („morphing face, extra fingers, warped hands, blurry“), keine Körperbegriffe (sonst Block).
 3. Video herunterladen, mehrere Einzelbilder vergrößert ansehen (Gesicht stabil, Stoff blickdicht). Höchstens EIN neuer Versuch.
    Ausgabe nicht 9:16 (Kling übernimmt das Format des Startbilds): mit Unschärfe-Rand auf 1080×1920 bringen.
