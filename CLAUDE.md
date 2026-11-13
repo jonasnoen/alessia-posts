@@ -87,6 +87,12 @@ bevorzugt einsetzen und abwechseln.
 - **Ausnahme Licht:** Abend- und Nachtszenen (A3, A4, Dinner) sind erlaubt, aber immer „clear evening light, sharp, no haze“ –
   kein Weichzeichner-Dunst. Tagszenen bleiben helles, klares Tageslicht.
 
+## Format „Reaktion im Alltag“ (Nutzer 13.11.2026, etwa 1× pro Woche, Arm `lifestyle`)
+Alessia im eleganten Abend- oder Glamour-Look (Standard-Prompt, tiefer Ausschnitt, Goldschmuck) an einem völlig normalen Ort:
+Waschsalon, Bahnhof, Wochenmarkt, Supermarkt-Kasse, Tankstelle. Daneben normale erfundene Erwachsene (Mitte 20+) in Alltagskleidung,
+die sichtbar reagieren (drehen sich um, staunen, flüstern). Alessia ganz selbstverständlich, Blick in die Kamera. Respektvoll,
+nichts Sexuelles, kein Körperkontakt, keine Klischees über Gruppen oder Länder. Tageslicht bzw. normales Innenlicht, scharf.
+
 ## Inhaltsgrenzen (Pflicht)
 - Sexy und körperbetont ja (Bikinistreifen, enge Kleider, Crop-Tops, Badeanzug, tiefe Ausschnitte). **Keine Nacktheit,
   keine expliziten Posen, keine Bilder oder Videos, auf denen sich Brustwarzen durch den Stoff abzeichnen oder Stoff

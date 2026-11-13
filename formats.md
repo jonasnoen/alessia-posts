@@ -13,3 +13,4 @@ Immer im Master-Flow mit Standard-Prompt und allen 7 Referenzen, Alessias eigene
 - **A7 · Bunt vor türkiser Holztür in Positano** (`lifestyle`): schulterfreies buntes Rüschen-Set, sitzend, Wind im Haar, Kopf geneigt.
 - **A8 · Badeanzug mit tiefem V am Poolrand** (`koerper`, Test): sitzend, TROCKEN, Arme hinter dem Kopf. Nicht im Wasser/nass (Filter).
 Nicht übernehmen: String-Bikini/Hüft-Fokus, Bilder ohne Gesicht, Marken (z. B. Logo-Taschen).
+- **A9 · Reaktion im Alltag** (Nutzer 13.11., Kontrast-Prinzip): Alessia im Glamour-Look im Waschsalon/Bahnhof/Wochenmarkt, Umstehende reagieren sichtbar. Hook-Text z. B. „Overdressed for the laundromat?“. Etwa 1× pro Woche.
