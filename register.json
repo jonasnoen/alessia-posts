@@ -598,6 +598,14 @@
       "status": "draft",
       "costUsd": 1.97,
       "costNote": "Startbild v1 0,30 (Brust zu klein, verworfen) + Stimme 0,03 + Startbild v2 0,30 + Video 1,34"
+    },
+    {
+      "id": "KLING-HEMD",
+      "date": "2026-11-13",
+      "type": "Kling-Test offenes Leinenhemd",
+      "status": "blocked",
+      "costUsd": 0.61,
+      "costNote": "2 Startbilder vom Gemini-Filter blockiert (offenes Hemd ohne BH; geknotetes Hemd mit tiefem V) – ob berechnet, unklar, vorsichtshalber eingetragen"
     }
   ]
 }
