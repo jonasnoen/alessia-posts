@@ -172,5 +172,12 @@ Auch die TikTok-Videos der Foto-Posts bekommen einen Song. Komplette Songs NIE i
   `getAnalyticsDataByMetrics`) → `stats.h48` / `stats.d7`. Fehlende Werte als fehlend, nie erfinden.
 - Montags kurzer vidIQ-Outlier-Check (AI influencer female, virtual model, Italian summer, tan lines) → Ideen in `formats.md`.
 
+## Sprechvideos (Nutzer 13.11.2026)
+- Startbild 9:16 im Master-Flow (nur Collage), Stimme `eleven_v3`, Video `bytedance-omnihuman-v1.5` (Knotentyp `avatar`, 1080p, Ports `image` + `audio`).
+- **Kurz halten: Text höchstens ~20 Wörter, fertiges Video unter 10 s** (Kosten ≈ 0,16 $ pro Sekunde, 8 s ≈ 1,30 $). Starker Haken in den ersten Worten.
+- Vor dem Video die Stimme prüfen: Pausen > 0,4 s im fertigen Video per Schnitt auf ≈ 0,3 s kürzen (Jump-Cuts sind ok).
+- Schnitt: Untertitel (Poppins Bold, weiß mit schwarzem Rand, unteres Drittel, phrasenweise) + leiser Song aus `assets/music/songs/` (≈ 13 % Lautstärke, Ein-/Ausblenden), 1080×1920.
+- Stimme: „Cristina B PVC“ (`hPZsPQkqWehjZarI2ncr`), leichter italienischer Akzent.
+
 ## Bericht
 Zum Schluss 2–3 Sätze auf Deutsch: was geplant wurde (Typ, Arm, Szene, Uhrzeit, Kosten, Monatssumme) oder warum nichts.
