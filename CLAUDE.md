@@ -79,6 +79,14 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
 Immer mit dem Standard-Prompt und allen 7 Referenzen im Master-Flow. Nur erfundene Events, keine echten Eventnamen, Marken,
 Logos, Kennzeichen oder Prominenten; keine Behauptung, es sei echt.
 
+## Neue Formate A1–A8 (Nutzer 13.11.2026, Details in `formats.md`)
+Fashion Show erste Reihe, Dinner-Close-up, Abend-Terrasse Amalfi, Dachterrasse Mailand bei Nacht, Spiegel-Selfie im Villa-Flur,
+Herbst-Look auf Villa-Treppe, buntes Rüschen-Set vor türkiser Tür, Badeanzug mit tiefem V am Poolrand (trocken). Bei der Szenenwahl
+bevorzugt einsetzen und abwechseln.
+- **Goldschmuck fest im Stil:** in jeden Prompt „gold hoop earrings and stacked gold bangles“ (dazu die feine Goldkette).
+- **Ausnahme Licht:** Abend- und Nachtszenen (A3, A4, Dinner) sind erlaubt, aber immer „clear evening light, sharp, no haze“ –
+  kein Weichzeichner-Dunst. Tagszenen bleiben helles, klares Tageslicht.
+
 ## Inhaltsgrenzen (Pflicht)
 - Sexy und körperbetont ja (Bikinistreifen, enge Kleider, Crop-Tops, Badeanzug, tiefe Ausschnitte). **Keine Nacktheit,
   keine expliziten Posen, keine Bilder oder Videos, auf denen sich Brustwarzen durch den Stoff abzeichnen oder Stoff
