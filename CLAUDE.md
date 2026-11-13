@@ -87,11 +87,15 @@ bevorzugt einsetzen und abwechseln.
 - **Ausnahme Licht:** Abend- und Nachtszenen (A3, A4, Dinner) sind erlaubt, aber immer „clear evening light, sharp, no haze“ –
   kein Weichzeichner-Dunst. Tagszenen bleiben helles, klares Tageslicht.
 
-## Format „Reaktion im Alltag“ (Nutzer 13.11.2026, etwa 1× pro Woche, Arm `lifestyle`)
-Alessia im eleganten Abend- oder Glamour-Look (Standard-Prompt, tiefer Ausschnitt, Goldschmuck) an einem völlig normalen Ort:
-Waschsalon, Bahnhof, Wochenmarkt, Supermarkt-Kasse, Tankstelle. Daneben normale erfundene Erwachsene (Mitte 20+) in Alltagskleidung,
-die sichtbar reagieren (drehen sich um, staunen, flüstern). Alessia ganz selbstverständlich, Blick in die Kamera. Respektvoll,
-nichts Sexuelles, kein Körperkontakt, keine Klischees über Gruppen oder Länder. Tageslicht bzw. normales Innenlicht, scharf.
+## Format „Krasser Kontrast“ (Nutzer 13.11.2026: „krassere Unterschiede, nicht so semi“; 1–2× pro Woche, Arm `lifestyle`)
+Alessia im Glamour-Look (Standard-Prompt, tiefer Ausschnitt, Goldschmuck, Abendkleid/Paillettenkleid) an einem Ort, an den sie
+maximal NICHT passt; erfundene Erwachsene (Mitte 20+ bzw. Senioren) reagieren deutlich, Alessia völlig selbstverständlich, Blick
+in die Kamera. Ideen (abwechseln): im Abendkleid beim Mittagessen zwischen Bauarbeitern auf der Baustelle · im Paillettenkleid in
+einer Autowerkstatt zwischen ölverschmierten Mechanikern · im Glamour-Look im Kuhstall beim Melken · im Abendkleid im Bingo-Saal
+zwischen Senioren · in High Heels und Satinkleid an der Fischtheke/auf dem Fischmarkt · tanzt in der Mitte einer Gruppe
+kongolesischer Sapeurs (Dandys in knallbunten Designer-Anzügen) auf einer Straße in Kinshasa, sie im schlichten weißen Kleid.
+Hook-Text kurz (z. B. „Overdressed? Never.“). Respektvoll, nichts Sexuelles, kein Körperkontakt außer Hand/Drehung beim Tanzen,
+keine Klischees über Ethnien/Länder, keine echten Stämme/Urvölker als Kulisse.
 
 ## Test-Format „Alessia tanzt in Kinshasa“ (Nutzer 13.11.2026, EINMALIGER Test als Reel, Arm `lifestyle`, danach Zahlen abwarten)
 Alessia ist die einzige weiße Frau in einer Gruppe und tanzt ausgelassen MIT ihnen zusammen: Tanzkreis bei einer Straßenparty
