@@ -40,8 +40,7 @@ Referenzen in `assets/reference/` (NIE selbst als Post veröffentlichen):
   („REF Collage Alessia (1–7)“, Datei `assets/reference/ref_collage_alessia.jpg`: obere Reihe Refs 1–4, untere Reihe Ref 5 Bett-Selfie
   + Ref 6 und 7 im weißen Strick-Top) verbinden – NICHT mehr die 7 Einzel-Knoten (≈ 0,30 $ statt 0,91 $ pro Bild, Test S028 bestanden).
   Alle Referenzen stecken weiter drin. Die Einzel-Knoten bleiben nur als Reserve im Flow.
-  Vorlage-Knoten mit dem Standard-Prompt: `TuktqdeHnNt55hmxDF15` („TEST Collage – Terrasse Leinen-V“) – für neue Bilder einen neuen Knoten
-  mit derselben Verbindung anlegen und nur Szene/Outfit/Format im Prompt tauschen. (Alter Vorlage-Knoten `hWVxdJ9mgRtB39CzsG9J` nicht mehr benutzen.)
+  Für jedes neue Bild einen neuen Bildknoten anlegen, nur mit der Collage verbunden, Prompt = Standard-Prompt unten mit neuer Szene.
 - **Standard-Prompt (Wortlaut beibehalten, nur „New photo: …“ anpassen; Nutzer 12.11.: Ref 6 NUR für die Brust, alle anderen NUR fürs Gesicht):**
   „The reference image is a collage of photos of the same adult woman, about 27. FACE ONLY: the top row (close-up with a strapless
   top in front of a beige wall, three-quarter portrait, full-body photo, photo from behind on a balcony) and the bottom-left selfie
