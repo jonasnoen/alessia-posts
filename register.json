@@ -604,8 +604,8 @@
       "date": "2026-11-13",
       "type": "Kling-Test offenes Leinenhemd",
       "status": "blocked",
-      "costUsd": 0.91,
-      "costNote": "3 Startbilder vom Gemini-Filter blockiert (offenes Hemd ohne BH; geknotetes Hemd tiefes V; kurzer Prompt nur „offenes Leinenhemd + Bikinistreifen“) – ob berechnet, unklar"
+      "costUsd": 2.08,
+      "costNote": "Gemini blockiert 4× (offenes Hemd ohne BH; geknotet tiefes V; kurz offenes Hemd+Streifen; Bikini unter offenem Hemd mit voller Brust), 1× durch (Hemd über Crop-Top, Brust bedeckt, 0,30); Kling O3 direkt aus Collage (offenes Hemd, Dekolleté) blockiert 0,56 – ob Blocks berechnet, unklar"
     }
   ]
 }
