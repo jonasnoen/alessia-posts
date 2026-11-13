@@ -619,11 +619,13 @@
     {
       "id": "PUSHUP",
       "date": "2026-11-13",
-      "type": "Startbilder Push-up-Bikini Boot",
+      "type": "Sprechvideo Push-up-Bikini Boot (Kling 3.0 Pro 9 s + Sync 3)",
       "status": "draft",
-      "generationId": "okZGBrcsA08dNNmx2UcK",
-      "costUsd": 0.61,
-      "costNote": "Push-up-Bild 0,30 (durch) + Versuch 'DD–E cup, noch größer' 0,30 blockiert"
+      "generationId": "lwZN1URh1czS9gzLxTFZ",
+      "costUsd": 2.8,
+      "costNote": "Push-up-Bild 0,30 + blockierter DD–E-Versuch 0,30 + Stimme 0,02 + Kling 9 s 1,01 + Sync 3 1,16",
+      "text": "Be honest... would you rather be on this boat with me, or at work right now? Thought so.",
+      "music": "assets/music/songs/myke-towers-lala.m4a"
     }
   ]
 }
