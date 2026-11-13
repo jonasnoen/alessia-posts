@@ -265,7 +265,12 @@
         "startImage": "jZuzbVeEHSXktGDXVmrr",
         "video": "gdfp1h1ZtVdPpULAf0Za"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram+tiktok": 427234758
+      },
+      "scheduledFor": "2026-11-13T19:30:00+01:00",
+      "mediaCommit": "0daa297226ecd1d97b38f9beca0d716b25d73871"
     }
   ],
   "stock": [
