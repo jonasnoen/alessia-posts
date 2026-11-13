@@ -97,6 +97,11 @@ kongolesischer Sapeurs (Dandys in knallbunten Designer-Anzügen) auf einer Stra�
 Hook-Text kurz (z. B. „Overdressed? Never.“). Respektvoll, nichts Sexuelles, kein Körperkontakt außer Hand/Drehung beim Tanzen,
 keine Klischees über Ethnien/Länder, keine echten Stämme/Urvölker als Kulisse.
 
+## Format „Reaktion im Alltag“ (bleibt zusätzlich, Nutzer 13.11.2026, etwa 1× pro Woche)
+Alessia sexy im Standard-Look (tiefer Ausschnitt, Goldschmuck) in normalen Alltagsszenen (Supermarkt-Kasse, Café, Bahnhof,
+Straße, Aufzug): Männer und Frauen daneben (erfundene Erwachsene) drehen sich nach ihr um, starren, ein Mann verschüttet seinen
+Kaffee, eine Frau stößt ihren Freund an. Alessia bleibt cool, Blick in die Kamera. Nichts Sexuelles, kein Körperkontakt.
+
 ## Test-Format „Alessia tanzt in Kinshasa“ (Nutzer 13.11.2026, EINMALIGER Test als Reel, Arm `lifestyle`, danach Zahlen abwarten)
 Alessia ist die einzige weiße Frau in einer Gruppe und tanzt ausgelassen MIT ihnen zusammen: Tanzkreis bei einer Straßenparty
 oder in einem Club/auf einer Rooftop-Party in Kinshasa, Rumba-/Afrobeats-Stimmung, mit MEHREREN Männern (Nutzer 13.11.:
