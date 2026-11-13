@@ -606,6 +606,15 @@
       "status": "blocked",
       "costUsd": 2.08,
       "costNote": "Gemini blockiert 4× (offenes Hemd ohne BH; geknotet tiefes V; kurz offenes Hemd+Streifen; Bikini unter offenem Hemd mit voller Brust), 1× durch (Hemd über Crop-Top, Brust bedeckt, 0,30); Kling O3 direkt aus Collage (offenes Hemd, Dekolleté) blockiert 0,56 – ob Blocks berechnet, unklar"
+    },
+    {
+      "id": "KLING-S024",
+      "date": "2026-11-13",
+      "type": "Kling 3.0 Pro Test aus Vorrat-Bild S024 (Bikini Boot)",
+      "status": "draft",
+      "generationId": "dkDVwNP0QHjefFPWM0MN",
+      "costUsd": 0.56,
+      "note": "Nutzer: Kling sieht besser aus als OmniHuman – Kling als Standard"
     }
   ]
 }
