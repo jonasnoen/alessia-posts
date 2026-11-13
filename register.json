@@ -572,6 +572,18 @@
       "status": "stock",
       "costUsd": 2.73,
       "note": "S025-Standard-Prompt, 12.11.; +1,82 $ Glanz-Test Bikini/Boot, beide blockiert"
+    },
+    {
+      "id": "S028",
+      "date": "2026-11-13",
+      "file": "posts/stock/S028.jpg",
+      "scene": "Terrasse über dem Meer in Positano, weißes Leinen-Top mit tiefem V, Goldcreolen, Goldarmreifen, Goldkette, Hand im Haar, Taille aufwärts (Collage-Test)",
+      "sceneTag": "terrasse-positano",
+      "serie": "lifestyle",
+      "status": "stock",
+      "generationId": "XW1Xe59nqelbtBsAPuG9",
+      "costUsd": 0.3,
+      "note": "erster Lauf mit Referenz-Collage (1 Bild statt 7)"
     }
   ],
   "reelDrafts": []
