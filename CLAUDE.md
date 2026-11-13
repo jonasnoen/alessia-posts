@@ -93,6 +93,14 @@ Waschsalon, Bahnhof, Wochenmarkt, Supermarkt-Kasse, Tankstelle. Daneben normale 
 die sichtbar reagieren (drehen sich um, staunen, flüstern). Alessia ganz selbstverständlich, Blick in die Kamera. Respektvoll,
 nichts Sexuelles, kein Körperkontakt, keine Klischees über Gruppen oder Länder. Tageslicht bzw. normales Innenlicht, scharf.
 
+## Test-Format „Alessia in Kinshasa“ (Nutzer 13.11.2026, EINMALIGER Test, Arm `lifestyle`, danach Zahlen abwarten)
+Alessia lebt/verbringt Zeit in Kinshasa (Kongo) und ist dort Teil der Szene, nicht Besucherin: z. B. lacht mit zwei, drei
+Freundinnen und Freunden (erfundene Schwarze Erwachsene, Mitte 20+, modisch und selbstbewusst gekleidet) auf einer Rooftop-Bar,
+in einem stylischen Café, beim Bummeln über einen bunten Stoff-/Modemarkt mit einer Händlerin auf Augenhöhe. Alle gleichberechtigt
+im Bild, alle gut gekleidet, gemeinsame Freude. Standard-Prompt für Alessia (tiefer Ausschnitt, Goldschmuck), Blick in die Kamera.
+NICHT: staunende Einheimische als Kulisse, Armut/Elend als Hintergrund, Kinder, Hilfs-/Retter-Motive, Klischees. Caption locker
+über Ort/Musik/Mode (z. B. „Kinshasa nights hit different“), keine Behauptung, dass es echt passiert ist.
+
 ## Inhaltsgrenzen (Pflicht)
 - Sexy und körperbetont ja (Bikinistreifen, enge Kleider, Crop-Tops, Badeanzug, tiefe Ausschnitte). **Keine Nacktheit,
   keine expliziten Posen, keine Bilder oder Videos, auf denen sich Brustwarzen durch den Stoff abzeichnen oder Stoff
