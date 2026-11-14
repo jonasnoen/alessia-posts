@@ -362,7 +362,12 @@
       "tiktokTitle": "Boat with me or work today? Be honest 👀",
       "costUsd": 2.8,
       "costNote": "siehe reelDrafts PUSHUP",
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram+tiktok": 428180433
+      },
+      "scheduledFor": "2026-11-14T19:30:00+01:00",
+      "mediaCommit": "f6819fc63a4e8582c54ba51a5dbeb7e07c11a612"
     },
     {
       "id": "P009",
@@ -731,12 +736,13 @@
       "id": "PUSHUP",
       "date": "2026-11-13",
       "type": "Sprechvideo Push-up-Bikini Boot (Kling 3.0 Pro 9 s + Sync 3)",
-      "status": "ready-as-post",
+      "status": "used",
       "generationId": "lwZN1URh1czS9gzLxTFZ",
       "costUsd": 2.8,
       "costNote": "Push-up-Bild 0,30 + blockierter DD–E-Versuch 0,30 + Stimme 0,02 + Kling 9 s 1,01 + Sync 3 1,16",
       "text": "Be honest... would you rather be on this boat with me, or at work right now? Thought so.",
-      "music": "assets/music/songs/justin-bieber-peaches-ft-daniel-caesar-giveon.m4a"
+      "music": "assets/music/songs/justin-bieber-peaches-ft-daniel-caesar-giveon.m4a",
+      "usedIn": "P008"
     }
   ]
 }
