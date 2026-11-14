@@ -50,6 +50,27 @@
             "follows": 0
           },
           "note": "Stand 10.11. 18:30 (Lauf verspätet, kein exakter 48-h-Wert). Instagram meldet in Metricool überall 0 (vermutlich noch nicht synchronisiert)."
+        },
+        "d7": {
+          "asOf": "2026-11-14T18:25:00+01:00",
+          "tiktok": {
+            "views": 750,
+            "likes": 56,
+            "comments": 4,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 0,
+            "reach": 0,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "follows": 0,
+            "comments": 0
+          },
+          "note": "ca. 8 Tage (Lauf 13.11. hatte d7 nicht erfasst)."
         }
       }
     },
@@ -99,6 +120,26 @@
             "follows": 0
           },
           "note": "Stand 10.11. 18:30 (Lauf verspätet, kein exakter 48-h-Wert). Instagram meldet in Metricool überall 0 (vermutlich noch nicht synchronisiert)."
+        },
+        "d7": {
+          "asOf": "2026-11-14T18:25:00+01:00",
+          "tiktok": {
+            "views": 826,
+            "likes": 74,
+            "comments": 7,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 3,
+            "reach": 1,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "follows": 0,
+            "comments": 0
+          }
         }
       }
     },
@@ -219,7 +260,32 @@
         "instagram+tiktok": 424716027
       },
       "scheduledFor": "2026-11-11T19:30:00+01:00",
-      "mediaCommit": "5a4fcbd1f29e375d35d670d68e97fc41e65b2290"
+      "mediaCommit": "5a4fcbd1f29e375d35d670d68e97fc41e65b2290",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-14T18:25:00+01:00",
+          "tiktok": {
+            "views": 234,
+            "likes": 32,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 17,
+            "reach": 13,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 3.106,
+            "skipRatePct": 84.6,
+            "follows": null
+          },
+          "note": "ca. 71 h (Lauf 13.11. hatte h48 nicht erfasst)."
+        }
+      }
     },
     {
       "id": "P006",
@@ -241,7 +307,15 @@
         "tiktok": 425982620
       },
       "scheduledFor": "2026-11-12T19:30:00+01:00",
-      "mediaCommit": "58968c51e076cb4472d55f276fb8952e20643d86"
+      "mediaCommit": "58968c51e076cb4472d55f276fb8952e20643d86",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-14T18:25:00+01:00",
+          "tiktok": null,
+          "instagram": null,
+          "note": "In Metricool laut Planer veröffentlicht (IG + TikTok), aber in den Analysedaten noch nicht vorhanden – Werte fehlen, beim nächsten Lauf nachtragen."
+        }
+      }
     },
     {
       "id": "P007",
@@ -288,7 +362,7 @@
       "tiktokTitle": "Boat with me or work today? Be honest 👀",
       "costUsd": 2.8,
       "costNote": "siehe reelDrafts PUSHUP",
-      "status": "ready"
+      "status": "sending"
     },
     {
       "id": "P009",
