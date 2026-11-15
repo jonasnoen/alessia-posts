@@ -189,6 +189,29 @@
             "follows": null
           },
           "note": "Stand 11.11. 18:20 (ca. 71 h, Lauf am 10.11. hatte P003 noch nicht erfasst). Instagram-Reel-Werte erstmals vorhanden; Profilbesuche/neue Follower nicht pro Post verfügbar."
+        },
+        "d7": {
+          "asOf": "2026-11-15T18:20:00+01:00",
+          "tiktok": {
+            "views": 798,
+            "likes": 38,
+            "comments": 5,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 149,
+            "reach": 101,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 3.984,
+            "skipRatePct": 61.4,
+            "follows": null
+          },
+          "note": "7 Tage. Profilbesuche/neue Follower nicht pro Post verfügbar."
         }
       }
     },
@@ -344,7 +367,32 @@
         "instagram+tiktok": 427234758
       },
       "scheduledFor": "2026-11-13T19:30:00+01:00",
-      "mediaCommit": "0daa297226ecd1d97b38f9beca0d716b25d73871"
+      "mediaCommit": "0daa297226ecd1d97b38f9beca0d716b25d73871",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-15T18:20:00+01:00",
+          "tiktok": {
+            "views": 390,
+            "likes": 38,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 9,
+            "reach": 5,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 9.02,
+            "skipRatePct": 80.0,
+            "follows": null
+          },
+          "note": "ca. 47 h."
+        }
+      }
     },
     {
       "id": "P008",
@@ -386,6 +434,32 @@
       "costUsd": 1.97,
       "costNote": "siehe reelDrafts TALK01",
       "status": "ready"
+    },
+    {
+      "id": "P010",
+      "date": "2026-11-15",
+      "planFor": "2026-11-15",
+      "type": "reel",
+      "arm": "gesicht",
+      "format": "A2 Close-up beim Dinner",
+      "scene": "Close-up beim Dinner auf einer Restaurantterrasse über dem Meer (Amalfi) am frühen Abend, schwarzes Neckholder-Top mit tiefem V, Haare streng zurück, Goldcreolen, Kinn auf der Hand, Blick in die Kamera",
+      "sceneTag": "dinner-closeup",
+      "file": "posts/P010/reel.mp4",
+      "hook": [
+        "Dinner in Amalfi",
+        "would you sit across from me?"
+      ],
+      "music": "assets/music/songs/karol-g-bichota.m4a",
+      "caption": "Table for two, sea view, one glass already poured 🍷 Would you sit across from me or make me wait?\n\n#italiangirl #amalfi #dinnerdate #dolcevita #aicreator",
+      "tiktokTitle": "Dinner in Amalfi… would you sit across from me? 🍷",
+      "costUsd": 0.61,
+      "costNote": "2x Startbild Nano Banana Pro 2K 9:16 mit Collage (je 0,3035 $); Reel per Zoom (kein Kling, Arm gesicht); Variante 1 als S029 in den Vorrat",
+      "elevenlabs": {
+        "flow": "S5oPy2PwIrUZGnqyLliY",
+        "startImageNode": "RPcTnjHz9i3WEKFF0j6l",
+        "generation": "9Cuv8RLy8h7hvCDl0FsW"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -699,6 +773,18 @@
       "generationId": "XW1Xe59nqelbtBsAPuG9",
       "costUsd": 0.3,
       "note": "erster Lauf mit Referenz-Collage (1 Bild statt 7)"
+    },
+    {
+      "id": "S029",
+      "date": "2026-11-15",
+      "file": "posts/stock/S029.jpg",
+      "scene": "Close-up beim Dinner auf Restaurantterrasse über dem Meer (Amalfi), schwarzes Neckholder-Top mit tiefem V, Haare zurück, Goldcreolen, Kinn auf der Hand, Weißwein",
+      "sceneTag": "dinner-closeup",
+      "series": "lifestyle",
+      "costUsd": 0,
+      "note": "Restvariante aus P010 (Kosten dort gezählt), geprüft: Gesicht, Hände, Stoff blickdicht",
+      "generation": "9v65ABgN6oMNI54bjbOx",
+      "status": "stock"
     }
   ],
   "reelDrafts": [
