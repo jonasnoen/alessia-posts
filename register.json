@@ -517,7 +517,12 @@
         "videoNode": "bhejzupleLoPVQQvfcFY",
         "videoGeneration": "kCBqo2KrEBfqe3ePg75W"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram+tiktok": 430402049
+      },
+      "scheduledFor": "2026-11-16T19:30:00+01:00",
+      "mediaCommit": "b81c3cd5ceb82a3b6f500e43cd5c1f9e6322e0ac"
     }
   ],
   "stock": [
