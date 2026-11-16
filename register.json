@@ -336,7 +336,7 @@
           "asOf": "2026-11-14T18:25:00+01:00",
           "tiktok": null,
           "instagram": null,
-          "note": "In Metricool laut Planer veröffentlicht (IG + TikTok), aber in den Analysedaten noch nicht vorhanden – Werte fehlen, beim nächsten Lauf nachtragen."
+          "note": "In Metricool laut Planer veröffentlicht (IG + TikTok), aber in den Analysedaten noch nicht vorhanden – Werte fehlen, beim nächsten Lauf nachtragen. Lauf 16.11.: weiterhin keine Analysedaten für P006 in Metricool (IG-Feed-Post und TikTok fehlen)."
         }
       }
     },
@@ -415,7 +415,32 @@
         "instagram+tiktok": 428180433
       },
       "scheduledFor": "2026-11-14T19:30:00+01:00",
-      "mediaCommit": "f6819fc63a4e8582c54ba51a5dbeb7e07c11a612"
+      "mediaCommit": "f6819fc63a4e8582c54ba51a5dbeb7e07c11a612",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-16T18:25:00+01:00",
+          "tiktok": {
+            "views": 237,
+            "likes": 49,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 5,
+            "reach": 5,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 3.968,
+            "skipRatePct": 100.0,
+            "follows": null
+          },
+          "note": "ca. 47 h."
+        }
+      }
     },
     {
       "id": "P009",
@@ -465,6 +490,34 @@
       },
       "scheduledFor": "2026-11-15T19:30:00+01:00",
       "mediaCommit": "a6cafe1ebebd61e956bc0be43a08eb18eeecfef5"
+    },
+    {
+      "id": "P011",
+      "date": "2026-11-16",
+      "planFor": "2026-11-16",
+      "type": "reel",
+      "arm": "koerper",
+      "format": "A8 Badeanzug mit tiefem V am Poolrand (trocken)",
+      "scene": "Infinity-Pool einer Villa über der Amalfiküste mittags, weißer Badeanzug mit tiefem V, Goldcreolen, Goldarmreifen, Goldkette, sitzt trocken am Steinrand, Hände hinter dem Kopf, dann Hand durchs Haar, Blick in die Kamera",
+      "sceneTag": "pool-villa",
+      "file": "posts/P011/reel.mp4",
+      "hook": [
+        "POV: you're invited",
+        "to my pool day"
+      ],
+      "music": "assets/music/songs/bad-bunny-chencho-corleone-me-porto-bonito.m4a",
+      "caption": "Lemon trees, turquoise water and nowhere to be ☀️ Would you jump in first or stay on the edge with me?\n\n#italiangirl #amalficoast #poolday #italiansummer #aicreator",
+      "tiktokTitle": "POV: you're invited to my pool day ☀️",
+      "costUsd": 1.17,
+      "costNote": "2x Startbild Nano Banana Pro 2K 9:16 mit Collage (je 0,3035 $) + Kling 3.0 Pro 5 s (0,5637 $); Variante 2 als S030 in den Vorrat",
+      "elevenlabs": {
+        "flow": "S5oPy2PwIrUZGnqyLliY",
+        "startImageNode": "AwaoETfMVSljCCi8qy1d",
+        "startGeneration": "cVy12h1qv1MRqVDIjDzN",
+        "videoNode": "bhejzupleLoPVQQvfcFY",
+        "videoGeneration": "kCBqo2KrEBfqe3ePg75W"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -790,6 +843,17 @@
       "note": "Restvariante aus P010 (Kosten dort gezählt), geprüft: Gesicht, Hände, Stoff blickdicht",
       "generation": "9v65ABgN6oMNI54bjbOx",
       "status": "stock"
+    },
+    {
+      "id": "S030",
+      "date": "2026-11-16",
+      "file": "posts/stock/S030.jpg",
+      "scene": "Infinity-Pool über der Amalfiküste mittags, weißer Neckholder-Badeanzug mit tiefem V, Goldcreolen, Goldarmreifen, Hände hinter dem Kopf, Taille aufwärts (4:5)",
+      "sceneTag": "pool-villa",
+      "arm": "koerper",
+      "status": "stock",
+      "costUsd": 0,
+      "source": "Restvariante aus Reel-Lauf P011 (Kosten dort gebucht), am 16.11. geprüft: Gesicht passt, Stoff blickdicht; leichte Achsel-Stoppeln sichtbar"
     }
   ],
   "reelDrafts": [
