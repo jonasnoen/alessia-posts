@@ -479,8 +479,12 @@
       "tiktokTitle": "Would you text first? Be honest 📱",
       "costUsd": 1.97,
       "costNote": "siehe reelDrafts TALK01",
-      "status": "sending",
-      "mediaCommit": "6328f035867b15426ced4a107721245104718115"
+      "status": "scheduled",
+      "mediaCommit": "6328f035867b15426ced4a107721245104718115",
+      "metricoolIds": {
+        "instagram+tiktok": 431769428
+      },
+      "scheduledFor": "2026-11-17T19:30:00+01:00"
     },
     {
       "id": "P010",
