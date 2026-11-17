@@ -257,6 +257,27 @@
             "comments": 1
           },
           "note": "Stand 12.11. 18:20 (ca. 47 h). Instagram-Feed-Post fast ohne Reichweite laut Metricool (Reichweite 2); Profilbesuche nicht pro Post verfügbar."
+        },
+        "d7": {
+          "asOf": "2026-11-17T18:25:00+01:00",
+          "tiktok": {
+            "views": 882,
+            "likes": 99,
+            "comments": 8,
+            "shares": 1,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 2,
+            "reach": 1,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "follows": 0
+          },
+          "note": "7 Tage. Profilbesuche nicht pro Post verfügbar."
         }
       }
     },
@@ -458,7 +479,8 @@
       "tiktokTitle": "Would you text first? Be honest 📱",
       "costUsd": 1.97,
       "costNote": "siehe reelDrafts TALK01",
-      "status": "ready"
+      "status": "sending",
+      "mediaCommit": "6328f035867b15426ced4a107721245104718115"
     },
     {
       "id": "P010",
@@ -489,7 +511,32 @@
         "instagram+tiktok": 429086350
       },
       "scheduledFor": "2026-11-15T19:30:00+01:00",
-      "mediaCommit": "a6cafe1ebebd61e956bc0be43a08eb18eeecfef5"
+      "mediaCommit": "a6cafe1ebebd61e956bc0be43a08eb18eeecfef5",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-17T18:25:00+01:00",
+          "tiktok": {
+            "views": 252,
+            "likes": 40,
+            "comments": 1,
+            "shares": 1,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 4,
+            "reach": 4,
+            "likes": 1,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 5.33,
+            "skipRatePct": 75.0,
+            "follows": null
+          },
+          "note": "ca. 47 h."
+        }
+      }
     },
     {
       "id": "P011",
