@@ -328,6 +328,29 @@
             "follows": null
           },
           "note": "ca. 71 h (Lauf 13.11. hatte h48 nicht erfasst)."
+        },
+        "d7": {
+          "asOf": "2026-11-18T18:25:00+01:00",
+          "tiktok": {
+            "views": 246,
+            "likes": 32,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 17,
+            "reach": 13,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 3.015,
+            "skipRatePct": 84.6,
+            "follows": null
+          },
+          "note": "ca. 7 Tage."
         }
       }
     },
@@ -573,7 +596,61 @@
         "instagram+tiktok": 430402049
       },
       "scheduledFor": "2026-11-16T19:30:00+01:00",
-      "mediaCommit": "b81c3cd5ceb82a3b6f500e43cd5c1f9e6322e0ac"
+      "mediaCommit": "b81c3cd5ceb82a3b6f500e43cd5c1f9e6322e0ac",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-18T18:25:00+01:00",
+          "tiktok": {
+            "views": 303,
+            "likes": 28,
+            "comments": 1,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 33,
+            "reach": 27,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 2.877,
+            "skipRatePct": 77.8,
+            "follows": null
+          },
+          "note": "ca. 47 h."
+        }
+      }
+    },
+    {
+      "id": "P012",
+      "date": "2026-11-18",
+      "planFor": "2026-11-18",
+      "type": "reel",
+      "arm": "vorrat",
+      "format": "Montage 'Send this to someone who loves Italy' (vidIQ-Muster 16.11.), schnelle 1,2-s-Schnitte aus Vorrat",
+      "scene": "Montage aus 6 Vorrat-Bildern: Piazza-Café, Selfie am Fenster, Terrasse Positano, Strandbar, Terrasse Positano Hand im Haar, Café-Piazza schwarzes Top",
+      "sceneTag": "montage-italien",
+      "stockIds": [
+        "S016",
+        "S012",
+        "S025",
+        "S007",
+        "S028",
+        "S026"
+      ],
+      "file": "posts/P012/reel.mp4",
+      "hook": [
+        "Send this to someone",
+        "who loves Italy"
+      ],
+      "music": "assets/music/songs/j-balvin-willy-william-mi-gente.m4a",
+      "caption": "Espresso, sea views and tan lines 🇮🇹 Which one is your favorite: 1, 2, 3, 4, 5 or 6?\n\n#italiangirl #italy #amalficoast #dolcevita #aicreator",
+      "tiktokTitle": "Send this to someone who loves Italy 🇮🇹",
+      "costUsd": 0,
+      "costNote": "0 $: ElevenLabs-Tools in diesem Lauf nicht verfügbar, daher Montage aus Vorrat statt neuem Reel; zählt zu keinem Arm (nächster Arm bleibt gesicht)",
+      "status": "sending"
     }
   ],
   "stock": [
@@ -654,9 +731,10 @@
       "scene": "Strandbar-Holzdeck, weißes geripptes Crop-Top, Leinenhose, Wasser mit Zitrone",
       "sceneTag": "strandbar",
       "arm": "koerper",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/A-04.11 Reel-Start Crop Top 9_16.png), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedBy": "P012"
     },
     {
       "id": "S008",
@@ -710,9 +788,10 @@
       "scene": "Selfie-Nahaufnahme am Fenster, weißes geripptes Top, Jeans",
       "sceneTag": "selfie-fenster",
       "arm": "gesicht",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/Static image asset (1).jpg), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedBy": "P012"
     },
     {
       "id": "S013",
@@ -755,9 +834,10 @@
       "scene": "Piazza-Café mit Cappuccino und Croissant, weißes Trägertop",
       "sceneTag": "cafe",
       "arm": "gesicht",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/frontal-szenen__3.jpg), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedBy": "P012"
     },
     {
       "id": "S017",
@@ -852,9 +932,10 @@
       "scene": "Terrasse über Positano, weißes Leinen-Top mit tiefem V-Ausschnitt, Goldkette, Bikinistreifen, Taille aufwärts",
       "sceneTag": "terrasse-positano",
       "serie": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "costUsd": 7.28,
-      "note": "Test tiefer Ausschnitt 12.11., 1 Variante blockiert; +1,82 $ für blockierten Folgeversuch (Strand-Close-up, beide blockiert); +1,82 $ zweiter blockierter Strand-Close-up; +1,82 $ Strand schwarzer Bikini, beide blockiert"
+      "note": "Test tiefer Ausschnitt 12.11., 1 Variante blockiert; +1,82 $ für blockierten Folgeversuch (Strand-Close-up, beide blockiert); +1,82 $ zweiter blockierter Strand-Close-up; +1,82 $ Strand schwarzer Bikini, beide blockiert",
+      "usedBy": "P012"
     },
     {
       "id": "S026",
@@ -862,9 +943,10 @@
       "scene": "Café-Tisch auf Piazza in Amalfi, schwarzes Leinen-Top mit tiefem V, Espresso, Goldkette, Bikinistreifen, Taille aufwärts",
       "sceneTag": "cafe-piazza",
       "serie": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "costUsd": 0.91,
-      "note": "S025-Standard-Prompt, 12.11."
+      "note": "S025-Standard-Prompt, 12.11.",
+      "usedBy": "P012"
     },
     {
       "id": "S027",
@@ -883,10 +965,11 @@
       "scene": "Terrasse über dem Meer in Positano, weißes Leinen-Top mit tiefem V, Goldcreolen, Goldarmreifen, Goldkette, Hand im Haar, Taille aufwärts (Collage-Test)",
       "sceneTag": "terrasse-positano",
       "serie": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "generationId": "XW1Xe59nqelbtBsAPuG9",
       "costUsd": 0.3,
-      "note": "erster Lauf mit Referenz-Collage (1 Bild statt 7)"
+      "note": "erster Lauf mit Referenz-Collage (1 Bild statt 7)",
+      "usedBy": "P012"
     },
     {
       "id": "S029",
