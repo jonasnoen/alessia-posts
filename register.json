@@ -650,7 +650,12 @@
       "tiktokTitle": "Send this to someone who loves Italy 🇮🇹",
       "costUsd": 0,
       "costNote": "0 $: ElevenLabs-Tools in diesem Lauf nicht verfügbar, daher Montage aus Vorrat statt neuem Reel; zählt zu keinem Arm (nächster Arm bleibt gesicht)",
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram+tiktok": 433145261
+      },
+      "scheduledFor": "2026-11-18T19:30:00+01:00",
+      "mediaCommit": "75e9a7061c64bd087ac1029eb60eefd9e119dcb0"
     }
   ],
   "stock": [
