@@ -380,7 +380,7 @@
           "asOf": "2026-11-14T18:25:00+01:00",
           "tiktok": null,
           "instagram": null,
-          "note": "In Metricool laut Planer veröffentlicht (IG + TikTok), aber in den Analysedaten noch nicht vorhanden – Werte fehlen, beim nächsten Lauf nachtragen. Lauf 16.11.: weiterhin keine Analysedaten für P006 in Metricool (IG-Feed-Post und TikTok fehlen)."
+          "note": "In Metricool laut Planer veröffentlicht (IG + TikTok), aber in den Analysedaten noch nicht vorhanden – Werte fehlen, beim nächsten Lauf nachtragen. Lauf 16.11.: weiterhin keine Analysedaten für P006 in Metricool (IG-Feed-Post und TikTok fehlen). Lauf 19.11. (d7 fällig): weiterhin keine Analysedaten für P006 – h48 und d7 fehlen."
         }
       }
     },
@@ -507,7 +507,32 @@
       "metricoolIds": {
         "instagram+tiktok": 431769428
       },
-      "scheduledFor": "2026-11-17T19:30:00+01:00"
+      "scheduledFor": "2026-11-17T19:30:00+01:00",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-19T18:25:00+01:00",
+          "tiktok": {
+            "views": 239,
+            "likes": 26,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 43,
+            "reach": 38,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 2.35,
+            "skipRatePct": 86.5,
+            "follows": null
+          },
+          "note": "ca. 48 h. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        }
+      }
     },
     {
       "id": "P010",
@@ -656,6 +681,24 @@
       },
       "scheduledFor": "2026-11-18T19:30:00+01:00",
       "mediaCommit": "75e9a7061c64bd087ac1029eb60eefd9e119dcb0"
+    },
+    {
+      "id": "P013",
+      "date": "2026-11-19",
+      "planFor": "2026-11-19",
+      "type": "photo",
+      "arm": "vorrat",
+      "format": "Outfit-Frage (läuft auf TikTok, vgl. P004)",
+      "scene": "Spiegel-Selfie im Hotelflur, rostrotes geripptes trägerloses Minikleid, goldene Riemchensandalen, Bikinistreifen",
+      "sceneTag": "hotel-flur",
+      "stockId": "S011",
+      "file": "posts/P013/foto.jpg",
+      "tiktok": "posts/P013/tiktok.mp4",
+      "music": "assets/music/songs/karol-g-provenza.m4a",
+      "tiktokTitle": "Rust red or little black dress? Which one is more me? 🧡🖤",
+      "caption": "Rust red mini for tonight 🧡 Or should I go back to the little black dress… which one is more me?\n\n#italiangirl #outfitoftheday #minidress #dolcevita #aicreator",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "stock": [
@@ -782,9 +825,10 @@
       "scene": "Hotelflur Spiegel-Selfie, rostrotes Minikleid, Sandalen",
       "sceneTag": "hotel-flur",
       "arm": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/TL-C Kleid Ganzkörper.png), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedIn": "P013"
     },
     {
       "id": "S012",
