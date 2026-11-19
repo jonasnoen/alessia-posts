@@ -698,7 +698,13 @@
       "tiktokTitle": "Rust red or little black dress? Which one is more me? 🧡🖤",
       "caption": "Rust red mini for tonight 🧡 Or should I go back to the little black dress… which one is more me?\n\n#italiangirl #outfitoftheday #minidress #dolcevita #aicreator",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 434513617,
+        "tiktok": 434513662
+      },
+      "scheduledFor": "2026-11-19T19:30:00+01:00",
+      "mediaCommit": "aa00ef9c6054f19745b02b3154db3d5bc89735b9"
     }
   ],
   "stock": [
