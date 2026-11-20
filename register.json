@@ -785,7 +785,12 @@
         "lipsyncNode": "dQrrRICvPPmSbYJLRVE2",
         "lipsyncGeneration": "7YwRKLVzWJrYlX9mRBms"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram+tiktok": 435868876
+      },
+      "scheduledFor": "2026-11-20T19:30:00+01:00",
+      "mediaCommit": "b0ea0331a360385505175acbb7b966eaa1e69033"
     }
   ],
   "stock": [
@@ -1004,9 +1009,10 @@
       "scene": "Zitronengarten unter Pergola zur goldenen Stunde, cremefarbenes Leinenhemd, Hand am Haar, frontal",
       "sceneTag": "zitronengarten",
       "arm": "gesicht",
-      "status": "stock",
+      "status": "used",
       "source": "Restvariante aus Reel-Lauf P003, am 08.11. geprüft (Gesicht, Hände, Stoff blickdicht)",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedBy": "P014"
     },
     {
       "id": "S020",
