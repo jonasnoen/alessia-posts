@@ -380,7 +380,7 @@
           "asOf": "2026-11-14T18:25:00+01:00",
           "tiktok": null,
           "instagram": null,
-          "note": "In Metricool laut Planer veröffentlicht (IG + TikTok), aber in den Analysedaten noch nicht vorhanden – Werte fehlen, beim nächsten Lauf nachtragen. Lauf 16.11.: weiterhin keine Analysedaten für P006 in Metricool (IG-Feed-Post und TikTok fehlen). Lauf 19.11. (d7 fällig): weiterhin keine Analysedaten für P006 – h48 und d7 fehlen."
+          "note": "In Metricool laut Planer veröffentlicht (IG + TikTok), aber in den Analysedaten noch nicht vorhanden – Werte fehlen, beim nächsten Lauf nachtragen. Lauf 16.11.: weiterhin keine Analysedaten für P006 in Metricool (IG-Feed-Post und TikTok fehlen). Lauf 19.11. (d7 fällig): weiterhin keine Analysedaten für P006 – h48 und d7 fehlen. Lauf 20.11.: weiterhin keine Daten, nicht weiter nachfassen."
         }
       }
     },
@@ -435,6 +435,29 @@
             "follows": null
           },
           "note": "ca. 47 h."
+        },
+        "d7": {
+          "asOf": "2026-11-20T18:20:00+01:00",
+          "tiktok": {
+            "views": 414,
+            "likes": 38,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 9,
+            "reach": 5,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 8.557,
+            "skipRatePct": 80.0,
+            "follows": null
+          },
+          "note": "ca. 7 Tage. Profilbesuche/neue Follower nicht pro Post verfügbar."
         }
       }
     },
@@ -680,7 +703,32 @@
         "instagram+tiktok": 433145261
       },
       "scheduledFor": "2026-11-18T19:30:00+01:00",
-      "mediaCommit": "75e9a7061c64bd087ac1029eb60eefd9e119dcb0"
+      "mediaCommit": "75e9a7061c64bd087ac1029eb60eefd9e119dcb0",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-20T18:20:00+01:00",
+          "tiktok": {
+            "views": 199,
+            "likes": 25,
+            "comments": 1,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 9,
+            "reach": 8,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 1.604,
+            "skipRatePct": 88.9,
+            "follows": null
+          },
+          "note": "ca. 48 h. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        }
+      }
     },
     {
       "id": "P013",
@@ -705,6 +753,39 @@
       },
       "scheduledFor": "2026-11-19T19:30:00+01:00",
       "mediaCommit": "aa00ef9c6054f19745b02b3154db3d5bc89735b9"
+    },
+    {
+      "id": "P014",
+      "date": "2026-11-20",
+      "planFor": "2026-11-20",
+      "type": "reel",
+      "format": "Sprechvideo",
+      "arm": "gesicht",
+      "scene": "Zitronengarten unter Pergola, cremefarbenes Leinenhemd, Close-up, streicht Haar hinters Ohr, spricht in die Kamera (Startbild = Vorrat S019)",
+      "sceneTag": "zitronengarten",
+      "stockId": "S019",
+      "file": "posts/P014/reel.mp4",
+      "hook": [
+        "POV: we lock eyes",
+        "across the room"
+      ],
+      "music": "assets/music/songs/myke-towers-lala.m4a",
+      "spoken": "Be honest... if I looked at you like this from across the room... would you come say hi? I'll wait.",
+      "caption": "Be honest… would you come say hi? 🍋 Or would I have to make the first move?\n\n#italiangirl #amalficoast #lemongarden #dolcevita #aicreator",
+      "tiktokTitle": "Be honest… would you come say hi? 🍋",
+      "costUsd": 2.2,
+      "costNote": "Stimme eleven_v3 0,0198 + Kling 3.0 Pro 9 s 1,0146 + Sync 3 1,1674 (Startbild aus Vorrat S019, 0 $); Pausen auf ~0,3 s gekürzt, fertig 7,0 s",
+      "elevenlabs": {
+        "flow": "S5oPy2PwIrUZGnqyLliY",
+        "voiceNode": "2AzQXllYtKwMVX5IdbI2",
+        "voiceGeneration": "5K1pALq12V0bJj31FTgH",
+        "startImageNode": "fN134hVoxSfTYz5U73DQ",
+        "videoNode": "8spdDKVYPDUIpG6GxU7J",
+        "videoGeneration": "JqDaLxR4EbURlleOuNc0",
+        "lipsyncNode": "dQrrRICvPPmSbYJLRVE2",
+        "lipsyncGeneration": "7YwRKLVzWJrYlX9mRBms"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
