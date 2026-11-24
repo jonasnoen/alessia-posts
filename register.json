@@ -506,6 +506,29 @@
             "follows": null
           },
           "note": "ca. 47 h."
+        },
+        "d7": {
+          "asOf": "2026-11-24T18:25:00+01:00",
+          "tiktok": {
+            "views": 249,
+            "likes": 51,
+            "comments": 3,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 5,
+            "reach": 5,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 3.603,
+            "skipRatePct": 100.0,
+            "follows": null
+          },
+          "note": "ca. 10 Tage (Läufe 21.–23.11. ohne Eintrag, nachgetragen). Profilbesuche/neue Follower nicht pro Post verfügbar."
         }
       }
     },
@@ -554,6 +577,29 @@
             "follows": null
           },
           "note": "ca. 48 h. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        },
+        "d7": {
+          "asOf": "2026-11-24T18:25:00+01:00",
+          "tiktok": {
+            "views": 242,
+            "likes": 27,
+            "comments": 2,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 43,
+            "reach": 38,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 2.35,
+            "skipRatePct": 86.5,
+            "follows": null
+          },
+          "note": "ca. 7 Tage. Profilbesuche/neue Follower nicht pro Post verfügbar."
         }
       }
     },
@@ -610,6 +656,29 @@
             "follows": null
           },
           "note": "ca. 47 h."
+        },
+        "d7": {
+          "asOf": "2026-11-24T18:25:00+01:00",
+          "tiktok": {
+            "views": 263,
+            "likes": 41,
+            "comments": 2,
+            "shares": 1,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 4,
+            "reach": 4,
+            "likes": 1,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 5.33,
+            "skipRatePct": 75.0,
+            "follows": null
+          },
+          "note": "ca. 9 Tage, nachgetragen. Profilbesuche/neue Follower nicht pro Post verfügbar."
         }
       }
     },
@@ -668,6 +737,29 @@
             "follows": null
           },
           "note": "ca. 47 h."
+        },
+        "d7": {
+          "asOf": "2026-11-24T18:25:00+01:00",
+          "tiktok": {
+            "views": 305,
+            "likes": 28,
+            "comments": 1,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 33,
+            "reach": 27,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 2.877,
+            "skipRatePct": 77.8,
+            "follows": null
+          },
+          "note": "ca. 8 Tage, nachgetragen. Profilbesuche/neue Follower nicht pro Post verfügbar."
         }
       }
     },
@@ -752,7 +844,31 @@
         "tiktok": 434513662
       },
       "scheduledFor": "2026-11-19T19:30:00+01:00",
-      "mediaCommit": "aa00ef9c6054f19745b02b3154db3d5bc89735b9"
+      "mediaCommit": "aa00ef9c6054f19745b02b3154db3d5bc89735b9",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-24T18:25:00+01:00",
+          "tiktok": {
+            "views": 246,
+            "likes": 41,
+            "comments": 3,
+            "shares": 1,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 0,
+            "reach": 0,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "follows": 0,
+            "note": "Metricool liefert für den Foto-Post überall 0 (evtl. noch nicht synchronisiert)"
+          },
+          "note": "verspätet nachgetragen (ca. 5 Tage) – kein echter 48-h-Wert. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        }
+      }
     },
     {
       "id": "P014",
@@ -790,7 +906,48 @@
         "instagram+tiktok": 435868876
       },
       "scheduledFor": "2026-11-20T19:30:00+01:00",
-      "mediaCommit": "b0ea0331a360385505175acbb7b966eaa1e69033"
+      "mediaCommit": "b0ea0331a360385505175acbb7b966eaa1e69033",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-24T18:25:00+01:00",
+          "tiktok": {
+            "views": 198,
+            "likes": 3,
+            "comments": 1,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 7,
+            "reach": 6,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 2.759,
+            "skipRatePct": 83.3,
+            "follows": null
+          },
+          "note": "verspätet nachgetragen (ca. 4 Tage) – kein echter 48-h-Wert. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        }
+      }
+    },
+    {
+      "id": "P015",
+      "date": "2026-11-24",
+      "type": "photo",
+      "arm": "vorrat",
+      "scene": "Café-Tisch auf Piazza in Amalfi, schwarzes Top mit tiefem V, Espresso, Goldkette, Bikinistreifen, Taille aufwärts (Vorrat S027)",
+      "sceneTag": "cafe-piazza",
+      "stockId": "S027",
+      "file": "posts/P015/photo.jpg",
+      "tiktokFile": "posts/P015/tiktok.mp4",
+      "music": "assets/music/songs/manuel-turizo-la-bachata.m4a",
+      "caption": "Espresso first, decisions later ☕️ Would you join me for one or make it two?\n\n#italiangirl #amalficoast #espresso #dolcevita #aicreator",
+      "tiktokTitle": "Espresso with me in Amalfi? ☕️",
+      "costUsd": 0,
+      "status": "sending"
     }
   ],
   "stock": [
