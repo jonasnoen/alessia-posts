@@ -947,7 +947,13 @@
       "caption": "Espresso first, decisions later ☕️ Would you join me for one or make it two?\n\n#italiangirl #amalficoast #espresso #dolcevita #aicreator",
       "tiktokTitle": "Espresso with me in Amalfi? ☕️",
       "costUsd": 0,
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram": 440620130,
+        "tiktok": 440620157
+      },
+      "scheduledFor": "2026-11-24T19:30:00+01:00",
+      "mediaCommit": "1d658bd5ff190396adb30e686ca5bcfab75ec854"
     }
   ],
   "stock": [
@@ -1253,9 +1259,10 @@
       "scene": "Café-Tisch auf Piazza in Amalfi, schwarzes Leinen-Top mit tiefem V, Espresso, Goldkette, Bikinistreifen, Taille aufwärts",
       "sceneTag": "cafe-piazza",
       "serie": "lifestyle",
-      "status": "stock",
+      "status": "used",
       "costUsd": 2.73,
-      "note": "S025-Standard-Prompt, 12.11.; +1,82 $ Glanz-Test Bikini/Boot, beide blockiert"
+      "note": "S025-Standard-Prompt, 12.11.; +1,82 $ Glanz-Test Bikini/Boot, beide blockiert",
+      "usedBy": "P015"
     },
     {
       "id": "S028",
