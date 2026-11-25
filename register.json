@@ -1009,7 +1009,12 @@
         "lipsyncNode": "e1fQn2TTI5HWXdGK7vtW",
         "lipsyncGeneration": "AjAdQTGoqXNHD4Tlfgm3"
       },
-      "status": "sending"
+      "status": "scheduled",
+      "metricoolIds": {
+        "instagram+tiktok": 442078324
+      },
+      "scheduledFor": "2026-11-25T19:30:00+01:00",
+      "mediaCommit": "783d92187d6ecdc61bde2256ff35adf98e9b69aa"
     }
   ],
   "stock": [
