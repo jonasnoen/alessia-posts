@@ -819,6 +819,29 @@
             "follows": null
           },
           "note": "ca. 48 h. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        },
+        "d7": {
+          "asOf": "2026-11-25T18:25:00+01:00",
+          "tiktok": {
+            "views": 199,
+            "likes": 25,
+            "comments": 1,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 9,
+            "reach": 8,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 1.951,
+            "skipRatePct": 88.9,
+            "follows": null
+          },
+          "note": "ca. 7 Tage. Profilbesuche/neue Follower nicht pro Post verfügbar."
         }
       }
     },
@@ -954,6 +977,39 @@
       },
       "scheduledFor": "2026-11-24T19:30:00+01:00",
       "mediaCommit": "1d658bd5ff190396adb30e686ca5bcfab75ec854"
+    },
+    {
+      "id": "P016",
+      "date": "2026-11-25",
+      "planFor": "2026-11-25",
+      "type": "reel",
+      "format": "Sprechvideo",
+      "arm": "lifestyle",
+      "scene": "Sonnige Steinterrasse über dem Meer (Amalfi), weißes Leinenkleid mit tiefem V, Goldkette, Goldcreolen, Hand im Haar, spricht in die Kamera (Startbild = Vorrat S013)",
+      "sceneTag": "terrasse-meer",
+      "stockId": "S013",
+      "file": "posts/P016/reel.mp4",
+      "hook": [
+        "Quick question...",
+        "(be honest)"
+      ],
+      "music": "assets/music/songs/wizkid-essence-ft-justin-bieber-tems.m4a",
+      "spoken": "Be honest... Amalfi sunset with me, or another boring Wednesday night? Tell me in the comments.",
+      "caption": "Be honest… sunset with me or another boring Wednesday? 🌅\n\n#italiangirl #amalficoast #dolcevita #sunset #aicreator",
+      "tiktokTitle": "Be honest… sunset with me or another boring Wednesday? 🌅",
+      "costUsd": 1.46,
+      "costNote": "Stimme eleven_v3 0,0158 + Kling 3.0 Pro 6 s 0,6764 + Sync 3 0,7711 (Startbild aus Vorrat S013, 0 $); keine Pausen > 0,2 s, fertig 5,8 s",
+      "elevenlabs": {
+        "flow": "S5oPy2PwIrUZGnqyLliY",
+        "voiceNode": "QOybOINhffLMTHgCZuPZ",
+        "voiceGeneration": "qsSCMitFiEyU7pVsVVYQ",
+        "startImageNode": "GfkgxpNekWWav8meQBTV",
+        "videoNode": "iQa1l2JOyepe5dA434nZ",
+        "videoGeneration": "hOxjFpGQDL8cfw8hHIJw",
+        "lipsyncNode": "e1fQn2TTI5HWXdGK7vtW",
+        "lipsyncGeneration": "AjAdQTGoqXNHD4Tlfgm3"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -1104,9 +1160,10 @@
       "scene": "Terrasse über dem Meer, weißes Leinenkleid mit V-Ausschnitt, Hand im Haar",
       "sceneTag": "terrasse-meer",
       "arm": "gesicht",
-      "status": "stock",
+      "status": "used",
       "source": "vom Nutzer freigegeben (verwendbar/fotos/alt-7-10__ref_alessia_9_figur_kleid_ganz.jpg), am 06.11. geprüft",
-      "costUsd": 0
+      "costUsd": 0,
+      "usedIn": "P016"
     },
     {
       "id": "S014",
