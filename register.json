@@ -1015,6 +1015,23 @@
       },
       "scheduledFor": "2026-11-25T19:30:00+01:00",
       "mediaCommit": "783d92187d6ecdc61bde2256ff35adf98e9b69aa"
+    },
+    {
+      "id": "P017",
+      "date": "2026-11-26",
+      "type": "photo",
+      "arm": "vorrat",
+      "scene": "Bootsdeck vor Amalfi, weißes Triangel-Bikini-Top, Goldkette, Bikinistreifen, sitzend, Taille aufwärts (Vorrat S024)",
+      "sceneTag": "boot",
+      "stockId": "S024",
+      "file": "posts/P017/photo.jpg",
+      "tiktokFile": "posts/P017/tiktok.mp4",
+      "music": "assets/music/songs/karol-g-shakira-tqg.m4a",
+      "caption": "Out on the water till sunset 🌊 Would you jump in first or stay on deck with me?\n\n#italiangirl #amalficoast #boatday #tanlines #aicreator",
+      "tiktokTitle": "Boat day in Amalfi: jump in or stay on deck? 🌊",
+      "costUsd": 0,
+      "status": "sending",
+      "scheduledFor": "2026-11-26T19:30:00+01:00"
     }
   ],
   "stock": [
