@@ -975,6 +975,29 @@
             "follows": null
           },
           "note": "verspätet nachgetragen (ca. 4 Tage) – kein echter 48-h-Wert. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        },
+        "d7": {
+          "asOf": "2026-11-27T18:25:00+01:00",
+          "tiktok": {
+            "views": 199,
+            "likes": 3,
+            "comments": 1,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 7,
+            "reach": 6,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 2.759,
+            "skipRatePct": 83.3,
+            "follows": null
+          },
+          "note": "7 Tage."
         }
       }
     },
@@ -1060,7 +1083,32 @@
         "instagram+tiktok": 442078324
       },
       "scheduledFor": "2026-11-25T19:30:00+01:00",
-      "mediaCommit": "783d92187d6ecdc61bde2256ff35adf98e9b69aa"
+      "mediaCommit": "783d92187d6ecdc61bde2256ff35adf98e9b69aa",
+      "stats": {
+        "h48": {
+          "asOf": "2026-11-27T18:25:00+01:00",
+          "tiktok": {
+            "views": 244,
+            "likes": 11,
+            "comments": 0,
+            "shares": 0,
+            "reach": null,
+            "watchTime": null
+          },
+          "instagram": {
+            "views": 13,
+            "reach": 11,
+            "likes": 0,
+            "saves": 0,
+            "shares": 0,
+            "comments": 0,
+            "avgWatchTimeS": 1.802,
+            "skipRatePct": 100.0,
+            "follows": null
+          },
+          "note": "ca. 47 h. Profilbesuche/neue Follower nicht pro Post verfügbar."
+        }
+      }
     },
     {
       "id": "P017",
@@ -1083,6 +1131,34 @@
         "tiktok": 443419796
       },
       "mediaCommit": "a53cb7a615f8343dc275e532908a58040ca75c6b"
+    },
+    {
+      "id": "P018",
+      "date": "2026-11-27",
+      "planFor": "2026-11-27",
+      "type": "reel",
+      "arm": "koerper",
+      "format": "Kling aus Vorrat-Bild (Spar-Trick), Bewegung ab Sekunde 0 (Haare über die Schulter), Hook-Frage",
+      "scene": "Infinity-Pool über der Amalfiküste mittags, weißer Neckholder-Badeanzug mit tiefem V, Goldcreolen, Goldarmreifen, wirft die Haare über die Schulter, Schulter zur Kamera, Blick in die Kamera (Startbild = Vorrat S030)",
+      "sceneTag": "pool-villa",
+      "stockId": "S030",
+      "file": "posts/P018/reel.mp4",
+      "hook": [
+        "Rate my pool day",
+        "from 1 to 10?"
+      ],
+      "music": "assets/music/songs/daddy-yankee-gasolina.m4a",
+      "caption": "Lemon trees, sea view and zero plans ☀️ Be honest, 1 to 10?\n\n#italiangirl #amalficoast #poolday #italiansummer #aicreator",
+      "tiktokTitle": "Rate my pool day from 1 to 10 ☀️",
+      "costUsd": 0.56,
+      "costNote": "Kling 3.0 Pro 5 s 1080p (56,37 Cent), Startbild aus Vorrat S030 (0 $)",
+      "elevenlabs": {
+        "flow": "S5oPy2PwIrUZGnqyLliY",
+        "startImageNode": "InlR2tZK7BDPrNbZgW3h",
+        "videoNode": "p6J6CsutRQtiP0aU00bf",
+        "videoGeneration": "IxmEcRGzWI0r6hWkfUDw"
+      },
+      "status": "sending"
     }
   ],
   "stock": [
@@ -1427,9 +1503,10 @@
       "scene": "Infinity-Pool über der Amalfiküste mittags, weißer Neckholder-Badeanzug mit tiefem V, Goldcreolen, Goldarmreifen, Hände hinter dem Kopf, Taille aufwärts (4:5)",
       "sceneTag": "pool-villa",
       "arm": "koerper",
-      "status": "stock",
+      "status": "used",
       "costUsd": 0,
-      "source": "Restvariante aus Reel-Lauf P011 (Kosten dort gebucht), am 16.11. geprüft: Gesicht passt, Stoff blickdicht; leichte Achsel-Stoppeln sichtbar"
+      "source": "Restvariante aus Reel-Lauf P011 (Kosten dort gebucht), am 16.11. geprüft: Gesicht passt, Stoff blickdicht; leichte Achsel-Stoppeln sichtbar",
+      "usedIn": "P018"
     }
   ],
   "reelDrafts": [
